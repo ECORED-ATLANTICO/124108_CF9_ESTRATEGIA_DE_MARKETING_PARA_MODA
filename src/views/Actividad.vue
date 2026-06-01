@@ -17,12 +17,12 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Analítica del rendimiento digital.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> verificar la comprensión sobre métricas, KPI, segmentación y comportamiento del consumidor en el Sistema Moda.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {

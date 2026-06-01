@@ -8,10 +8,24 @@
           i.fas.fa-info
       h1 Introducción
     
-    figure.mb-5
-      .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-3.mb-3.order-lg-2
+        figure
+          img(src="@/assets/curso/intro/2.png", data-aos="zoom-in")
+      .col-lg-9.order-lg-1
+        .row.justify-content-center.align-items-center.mb-3
+          .col-lg-5.mb-3
+            figure
+              img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
+          .col-lg-7
+            .bg-color-2.p-4
+              p.mb-0 El componente dinamización de comunidades digitales aborda los fundamentos estratégicos y operativos para gestionar, analizar y potenciar la interacción de audiencias en entornos digitales. A través del estudio del desempeño en redes sociales, los indicadores clave de rendimiento (KPI), la segmentación del mercado y el comportamiento del consumidor, el aprendiz comprenderá cómo convertir datos e interacciones en decisiones de marketing efectivas.
+        .bg-color-18.mb-5.p-4
+          .row.align-items-center
+            .col-lg-auto.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/intro/3.svg").mx-auto
+            .col-lg
+              p.mb-0 Este componente es clave para formar profesionales capaces de optimizar la presencia digital de marcas, especialmente en el sistema moda, donde la relación con la comunidad impacta directamente la visibilidad y la conversión. El contenido se desarrollará mediante enfoques analíticos y aplicados, apoyados en ejemplos reales, interpretación de métricas y ejercicios prácticos orientados a la toma de decisiones basada en datos.
 
 </template>
 
