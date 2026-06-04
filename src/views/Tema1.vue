@@ -6,36 +6,37 @@
       .titulo-principal__numero
         span 1
       h1 Desempeño de la red social
-    
-    .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Se abordará el concepto de desempeño de la red social en el Sistema Moda, comprendiendo cómo las métricas digitales permiten analizar el impacto de las acciones de marketing y fortalecen la toma de decisiones estratégicas en entornos digitales.
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
-        figure
-          img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
-      .col-lg-9.order-lg-1
-        .row.justify-content-center.align-items-center.mb-3
-          .col-lg-4.mb-3
+    .bg-full-width.bg-fondo-1
+      .px-4.px-lg-5
+        .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Se abordará el concepto de desempeño de la red social en el Sistema Moda, comprendiendo cómo las métricas digitales permiten analizar el impacto de las acciones de <em>marketing</em> y fortalecen la toma de decisiones estratégicas en entornos digitales.
+        
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-3.mb-3.mb-lg-0.order-lg-2
             figure
-              img(src="@/assets/curso/tema1/3.png", data-aos="zoom-in")
-          .col-lg-8
-            .bg-color-2.p-4
-              p.mb-0 Las marcas de moda que monitorean de forma constante sus métricas digitales logran identificar oportunidades de crecimiento, detectar debilidades comunicativas y fortalecer la relación con sus audiencias. En contraste, aquellas que publican sin evaluar resultados tienden a desperdiciar recursos y perder competitividad. 
-        .row.align-items-center.bg-color-3.p-4
-          .col-lg-auto.mb-lg-0
-            img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
-          .col-lg
-            p.mb-0 A continuación, se exploran las métricas más utilizadas en el análisis estratégico de comunidades digitales.
+              img(src="@/assets/curso/tema1/2.png", data-aos="zoom-in")
+          .col-lg-9.order-lg-1
+            .row.justify-content-center.align-items-center.mb-3
+              .col-lg-4.mb-3
+                figure
+                  img(src="@/assets/curso/tema1/3.png", data-aos="zoom-in")
+              .col-lg-8
+                .bg-color-2.p-4
+                  p.mb-0 Las marcas de moda que monitorean de forma constante sus métricas digitales logran identificar oportunidades de crecimiento, detectar debilidades comunicativas y fortalecer la relación con sus audiencias. En contraste, aquellas que publican sin evaluar resultados tienden a desperdiciar recursos y perder competitividad. 
+            .row.align-items-center.bg-color-3.p-4
+              .col-lg-auto.mb-lg-0
+                img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
+              .col-lg
+                p.mb-0 A continuación, se exploran las métricas más utilizadas en el análisis estratégico de comunidades digitales.
     
-    separador
-    
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Impresiones
+        separador
+        
+        #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+          h2 1.1 Impresiones
     
     img(src="@/assets/curso/tema1/5.png", alt="Imagen decorativa")
     
@@ -638,7 +639,7 @@
         figure
           img(src="@/assets/curso/tema1/56.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") Los indicadores y estadísticas integran el conjunto de métricas que permiten evaluar de forma sistemática el desempeño de una red social. En el Sistema Moda, este análisis transforma los datos en información útil para la toma de decisiones, sin un sistema de indicadores, la gestión digital se vuelve intuitiva y reactiva, por ello, la analítica estructurada constituye la base del marketing basado en datos.
+        p(data-aos="fade-right") Los indicadores y estadísticas integran el conjunto de métricas que permiten evaluar de forma sistemática el desempeño de una red social. En el Sistema Moda, este análisis transforma los datos en información útil para la toma de decisiones, sin un sistema de indicadores, la gestión digital se vuelve intuitiva y reactiva, por ello, la analítica estructurada constituye la base del <em>marketing</em> basado en datos.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 La siguiente figura presenta algunos tipos de métricas digitales utilizadas en redes sociales.
@@ -847,8 +848,8 @@
                 td No, pero se cuenta con periodo de prueba
               tr.bg-color-8
                 td <b><em>SEMrush</em></b>
-                td Ideal para el análisis de posicionamiento SEO y marketing digital
-                td Semrush, el marketing online puede ser fácil
+                td Ideal para el análisis de posicionamiento SEO y <em>marketing</em> digital
+                td Semrush, el <em>marketing</em> online puede ser fácil
                 td No, pero se cuenta con periodo de prueba
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5

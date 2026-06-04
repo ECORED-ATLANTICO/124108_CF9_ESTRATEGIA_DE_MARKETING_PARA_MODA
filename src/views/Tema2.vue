@@ -7,27 +7,29 @@
         span 2
       h1 Indicador clave de rendimiento
     
-    .row.mb-3.justify-content-center.align-items-center
-      .col-lg-4.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
-      .col-lg-8
-        p(data-aos="fade-right") En el sistema moda, la toma de decisiones basada en datos exige indicadores que permitan evaluar de manera objetiva el desempeño de las estrategias digitales. Los indicadores clave de rendimiento (KPI) constituyen herramientas fundamentales para medir avances, detectar desviaciones y optimizar la gestión comercial. Su correcta definición transforma la analítica en dirección estratégica, sin KPI claros, las métricas se convierten en información dispersa y poco accionable.
-        p.mb-0 Las marcas de moda que estructuran adecuadamente sus KPI logran alinear objetivos comerciales con resultados medibles, optimizar la inversión publicitaria y mejorar la eficiencia operativa. 
+    .bg-full-width.bg-fondo-1
+      .px-4.px-lg-5
+        .row.mb-3.justify-content-center.align-items-center
+          .col-lg-4.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
+          .col-lg-8
+            p(data-aos="fade-right") En el sistema moda, la toma de decisiones basada en datos exige indicadores que permitan evaluar de manera objetiva el desempeño de las estrategias digitales. Los indicadores clave de rendimiento (KPI) constituyen herramientas fundamentales para medir avances, detectar desviaciones y optimizar la gestión comercial. Su correcta definición transforma la analítica en dirección estratégica, sin KPI claros, las métricas se convierten en información dispersa y poco accionable.
+            p.mb-0 Las marcas de moda que estructuran adecuadamente sus KPI logran alinear objetivos comerciales con resultados medibles, optimizar la inversión publicitaria y mejorar la eficiencia operativa. 
+        
+        .bg-color-9.tarjeta.p-4.mb-5
+          p.mb-0 En contraste, la ausencia de indicadores relevantes conduce a decisiones intuitivas y a pérdida de competitividad. Este capítulo desarrolla el concepto, la estructura y la aplicabilidad de los KPI en el contexto del <em>marketing</em> digital para el sistema moda.
     
-    .bg-color-9.tarjeta.p-4.mb-5
-      p.mb-0 En contraste, la ausencia de indicadores relevantes conduce a decisiones intuitivas y a pérdida de competitividad. Este capítulo desarrolla el concepto, la estructura y la aplicabilidad de los KPI en el contexto del marketing digital para el sistema moda.
-    
-    separador
-    
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.1 Concepto
+        separador
+        
+        #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+          h2 2.1 Concepto
     
     img(src="@/assets/curso/tema2/2.png", alt="Imagen decorativa")
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Un indicador clave de rendimiento (KPI) es una métrica estratégica utilizada para medir el grado de cumplimiento de los objetivos establecidos por una organización, en el sistema moda, los KPI permiten evaluar si las acciones de marketing digital están generando resultados alineados con las metas comerciales, a diferencia de las métricas generales, un KPI se caracteriza por su relevancia estratégica y su vínculo directo con los objetivos del negocio, por ello, no todo dato constituye un KPI.
+        p.banner-text Un indicador clave de rendimiento (KPI) es una métrica estratégica utilizada para medir el grado de cumplimiento de los objetivos establecidos por una organización, en el sistema moda, los KPI permiten evaluar si las acciones de <em>marketing</em> digital están generando resultados alineados con las metas comerciales, a diferencia de las métricas generales, un KPI se caracteriza por su relevancia estratégica y su vínculo directo con los objetivos del negocio, por ello, no todo dato constituye un KPI.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8
@@ -79,7 +81,7 @@
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/7.png").mx-auto
             .col-lg
-              p Define el propósito del indicador y establece qué aspecto del desempeño se desea evaluar. Permite alinear la medición con los objetivos estratégicos del negocio y orientar las decisiones de marketing.
+              p Define el propósito del indicador y establece qué aspecto del desempeño se desea evaluar. Permite alinear la medición con los objetivos estratégicos del negocio y orientar las decisiones de <em>marketing</em>.
               p <b>Ejemplo en moda</b>: una marca de moda busca incrementar las ventas online de su tienda digital, especialmente durante el lanzamiento de una nueva colección de temporada.
           .row(titulo="Formula")
             .col-lg-auto.mb-lg-0
@@ -98,7 +100,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/10.png").mx-auto
             .col-lg
               p Establece el periodo de tiempo en el que el indicador será medido y evaluado. Permite monitorear el desempeño de forma periódica y detectar tendencias o desviaciones.
-              p <b>Ejemplo en moda</b>: el equipo de marketing revisa mensualmente la tasa de conversión de la tienda online para evaluar el rendimiento de las campañas digitales.
+              p <b>Ejemplo en moda</b>: el equipo de <em>marketing</em> revisa mensualmente la tasa de conversión de la tienda online para evaluar el rendimiento de las campañas digitales.
           .row(titulo="Meta")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/11.png").mx-auto
@@ -135,7 +137,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/15.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La interpretación de los KPI corresponde al proceso analítico mediante el cual los datos medidos se convierten en conclusiones estratégicas para la toma de decisiones, en el sistema moda, interpretar correctamente los indicadores permite identificar oportunidades de crecimiento, detectar desviaciones y ajustar las acciones de marketing digital, sin una interpretación adecuada, los KPI se reducen a cifras descriptivas sin valor estratégico, de allí que, la analítica debe ir acompañada de criterio gerencial.
+        p.mb-0 La interpretación de los KPI corresponde al proceso analítico mediante el cual los datos medidos se convierten en conclusiones estratégicas para la toma de decisiones, en el sistema moda, interpretar correctamente los indicadores permite identificar oportunidades de crecimiento, detectar desviaciones y ajustar las acciones de <em>marketing</em> digital, sin una interpretación adecuada, los KPI se reducen a cifras descriptivas sin valor estratégico, de allí que, la analítica debe ir acompañada de criterio gerencial.
 
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -172,12 +174,12 @@
         figure
           img(src="@/assets/curso/tema2/17.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") La aplicabilidad de los KPI se refiere al uso práctico de los indicadores para orientar decisiones tácticas y estratégicas dentro del marketing digital, en el sistema moda, la utilidad real de un KPI se evidencia cuando influye directamente en la optimización de campañas, la asignación de presupuesto y la planificación comercial; un indicador que no genera acciones concretas pierde valor operativo, es por ello, que la aplicabilidad es el criterio que valida la pertinencia del KPI.
+        p(data-aos="fade-right") La aplicabilidad de los KPI se refiere al uso práctico de los indicadores para orientar decisiones tácticas y estratégicas dentro del <em>marketing</em> digital, en el sistema moda, la utilidad real de un KPI se evidencia cuando influye directamente en la optimización de campañas, la asignación de presupuesto y la planificación comercial; un indicador que no genera acciones concretas pierde valor operativo, es por ello, que la aplicabilidad es el criterio que valida la pertinencia del KPI.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 En términos funcionales, los KPI pueden aplicarse en control de campañas, optimización de contenido, gestión de inversión publicitaria y evaluación de desempeño comercial.
     
-    p.mb-5 El siguiente caso presenta la aplicación de KPI en una estrategia de marketing digital desarrollada para una marca de moda.
+    p.mb-5 El siguiente caso presenta la aplicación de KPI en una estrategia de <em>marketing</em> digital desarrollada para una marca de moda.
     
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -189,7 +191,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Caso aplicado: uso de KPI en una marca de moda digital
-                  p.mb-0 El siguiente caso presenta la aplicación de KPI en una estrategia de marketing digital desarrollada para una marca de moda.
+                  p.mb-0 El siguiente caso presenta la aplicación de KPI en una estrategia de <em>marketing</em> digital desarrollada para una marca de moda.
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Caso_aplicado_uso_KPI_marca_moda_digital.pdf')" target="_blank")
                     span Ir al enlace
@@ -223,7 +225,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El cálculo de los KPI permite cuantificar el desempeño de las acciones digitales mediante fórmulas aplicadas a diferentes métricas de marketing.
+        p.banner-text El cálculo de los KPI permite cuantificar el desempeño de las acciones digitales mediante fórmulas aplicadas a diferentes métricas de <em>marketing</em>.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0

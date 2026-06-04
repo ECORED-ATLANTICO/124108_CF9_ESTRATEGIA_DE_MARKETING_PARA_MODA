@@ -7,42 +7,44 @@
         span 3
       h1 Segmentación de mercado
     
-    .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 En el sistema moda, la diversidad de estilos, motivaciones y comportamientos de compra exige estrategias comerciales cada vez más precisas. 
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0.order-lg-2
-        figure
-          img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
-      .col-lg-9.order-lg-1
-        .row.justify-content-center.align-items-center.mb-3
-          .col-lg-4.mb-3
+    .bg-full-width.bg-fondo-1
+      .px-4.px-lg-5
+        .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema3/1.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 En el sistema moda, la diversidad de estilos, motivaciones y comportamientos de compra exige estrategias comerciales cada vez más precisas. 
+        
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-3.mb-3.mb-lg-0.order-lg-2
             figure
-              img(src="@/assets/curso/tema3/3.png", data-aos="zoom-in")
-          .col-lg-8
-            .bg-color-2.p-4
-              p.mb-0 La segmentación del mercado permite dividir el universo de consumidores en grupos homogéneos para diseñar propuestas de valor diferenciadas, este proceso reduce la dispersión de esfuerzos y mejora la efectividad del marketing digital, sin segmentación, la comunicación se vuelve genérica y pierde impacto competitivo.
-        .row.align-items-center.bg-color-3.p-4
-          .col-lg-auto.mb-lg-0
-            img.d-lg-flex.d-none(src="@/assets/curso/tema3/4.svg").mx-auto
-          .col-lg
-            p.mb-0 Las marcas de moda que segmentan correctamente logran colecciones más pertinentes, campañas más eficientes y mejor retorno de la inversión publicitaria, en contraste, aquellas que abordan el mercado de forma masiva enfrentan mayores costos y menor conversión. 
-    
-    separador
-    
-    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.1 Concepto
+              img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
+          .col-lg-9.order-lg-1
+            .row.justify-content-center.align-items-center.mb-3
+              .col-lg-4.mb-3
+                figure
+                  img(src="@/assets/curso/tema3/3.png", data-aos="zoom-in")
+              .col-lg-8
+                .bg-color-2.p-4
+                  p.mb-0 La segmentación del mercado permite dividir el universo de consumidores en grupos homogéneos para diseñar propuestas de valor diferenciadas, este proceso reduce la dispersión de esfuerzos y mejora la efectividad del <em>marketing</em> digital, sin segmentación, la comunicación se vuelve genérica y pierde impacto competitivo.
+            .row.align-items-center.bg-color-3.p-4
+              .col-lg-auto.mb-lg-0
+                img.d-lg-flex.d-none(src="@/assets/curso/tema3/4.svg").mx-auto
+              .col-lg
+                p.mb-0 Las marcas de moda que segmentan correctamente logran colecciones más pertinentes, campañas más eficientes y mejor retorno de la inversión publicitaria, en contraste, aquellas que abordan el mercado de forma masiva enfrentan mayores costos y menor conversión. 
+        
+        separador
+        
+        #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+          h2 3.1 Concepto
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema3/5.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-0(data-aos="fade-right") La segmentación del mercado puede definirse como el proceso mediante el cual una empresa divide el mercado total en grupos de consumidores con características, necesidades o comportamientos similares, esta práctica permite reconocer que no todos los consumidores buscan lo mismo ni responden de igual manera a las propuestas de valor. Al segmentar, la marca puede diseñar mensajes más relevantes y optimizar su inversión comercial, por ello, la segmentación constituye un pilar del marketing estratégico.
+        p.mb-0(data-aos="fade-right") La segmentación del mercado puede definirse como el proceso mediante el cual una empresa divide el mercado total en grupos de consumidores con características, necesidades o comportamientos similares, esta práctica permite reconocer que no todos los consumidores buscan lo mismo ni responden de igual manera a las propuestas de valor. Al segmentar, la marca puede diseñar mensajes más relevantes y optimizar su inversión comercial, por ello, la segmentación constituye un pilar del <em>marketing</em> estratégico.
     
     .row.justify-content-center.align-items-center
       .col-lg-12(data-aos="fade-up")
@@ -311,7 +313,7 @@
         figure
           img(src="@/assets/curso/tema3/19.png", data-aos="zoom-in")
       .col-lg-9
-        p.mb-0(data-aos="fade-right") Los niveles de los clientes corresponden a la clasificación de la base de consumidores según su grado de relación, valor y lealtad hacia la marca, esta diferenciación permite diseñar estrategias de comunicación y fidelización más efectivas ya que no todos los clientes aportan el mismo valor ni se encuentran en la misma etapa de vinculación, por ello, segmentarlos por nivel mejora la eficiencia del marketing relacional.
+        p.mb-0(data-aos="fade-right") Los niveles de los clientes corresponden a la clasificación de la base de consumidores según su grado de relación, valor y lealtad hacia la marca, esta diferenciación permite diseñar estrategias de comunicación y fidelización más efectivas ya que no todos los clientes aportan el mismo valor ni se encuentran en la misma etapa de vinculación, por ello, segmentarlos por nivel mejora la eficiencia del <em>marketing</em> relacional.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
