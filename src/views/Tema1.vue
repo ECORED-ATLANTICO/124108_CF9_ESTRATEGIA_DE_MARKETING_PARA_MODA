@@ -872,7 +872,7 @@
     
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
-        .tarjeta.color-primario.bg-color-18.p-3.mb-5
+        .tarjeta.color-primario.bg-color-16.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-auto
               img(src="@/assets/curso/tema1/68.png")
@@ -885,6 +885,168 @@
                   a.boton.color-acento-botones(href="https://youtu.be/_FS9hxSIDwY?si=9LJC9GO04BnFbqeY " target="_blank")
                     span Ir al video
                     i.fas.fa-link
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.mb-3.mb-lg-0.order-lg-2
+        figure
+          img(src="@/assets/curso/tema1/69.png", data-aos="zoom-in")
+      .col-lg-6.order-lg-1
+        .row.align-items-center.bg-color-1.px-4.tarjeta
+          .col-lg-auto.mb-lg-0
+            img.d-lg-flex.d-none(src="@/assets/curso/tema1/14.png").mx-auto
+          .col-lg
+            h5 Pregunta de aplicación
+            p.mb-0 ¿Qué riesgo enfrenta una marca que recopila datos pero no los interpreta correctamente?
+    
+    separador
+    
+    #t_1_10.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.10 Pauta
+    
+    .row.mb-5.justify-content-center.align-items-center
+      .col-lg-4.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/tema1/70.png", data-aos="zoom-in")
+      .col-lg-8
+        p(data-aos="fade-right") La pauta digital en redes sociales corresponde a la inversión publicitaria destinada a amplificar el alcance y la conversión del contenido, en el sistema moda, la pauta permite acelerar el posicionamiento de colecciones y competir en entornos saturados de información. Sin embargo, su efectividad depende de la segmentación, la creatividad y la medición continua, la pauta mal gestionada genera gasto; la pauta estratégica genera retorno.
+    
+        .cajon.color-acento-contenido.p-4
+          p.mb-0 Analíticamente, la pauta se evalúa mediante indicadores como CPM, CPC, CTR y ROAS. Cada métrica cumple una función específica: el CPM mide costo por mil impresiones; el CPC evalúa el costo por click; el CTR indica atractivo del anuncio; el ROAS determina rentabilidad, esta estructura métrica permite optimizar la inversión publicitaria de forma progresiva.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.mb-3.mb-lg-0.order-lg-2
+        figure
+          img(src="@/assets/curso/tema1/71.png", data-aos="zoom-in")
+      .col-lg-8.order-lg-1
+        p En el sistema moda, la pauta debe integrarse con contenido orgánico validado previamente, escalar contenido que ya demostró engagement reduce el riesgo financiero, además, la pauta debe ajustarse según temporada, comportamiento del consumidor y ciclo de vida de la colección.
+        p La gestión inteligente del presupuesto publicitario fortalece la competitividad digital.
+        .bg-color-1.tarjeta.px-4
+          .row.align-items-center
+            .col-lg-auto.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema1/12.svg").mx-auto
+            .col-lg
+              p.mb-0 <b><em>Insight</em></b>. La marca <b>Distrito Fashion Hub</b> probó creatividades de forma orgánica antes de pautar, al invertir solo en los anuncios con mejor desempeño, logró mejorar su ROAS en 38 %.
+
+    .row.justify-content-center
+      .col-lg-12
+        .titulo-sexto.color-acento-contenido
+          h5 Tabla 5.
+          span Indicadores clave de pauta digital
+        .tabla-a.color-secundario.mb-5.tbl
+          table
+            caption Nota. SENA, (2026).
+            thead
+              tr
+                th.bg-color-7 Indicador
+                th.bg-color-7 Qué mide
+                th.bg-color-7 Uso estratégico
+                th.bg-color-7 Ejemplo aplicado al sistema moda
+            tbody
+              tr.bg-color-white
+                td <b>CPM (Costo por mil impresiones)</b>
+                td Mide el costo que paga el anunciante por cada mil veces que un anuncio es mostrado en la plataforma. Permite estimar el precio de visibilidad dentro de una campaña publicitaria
+                td Eficiencia de alcance: se utiliza para evaluar qué tan económico resulta posicionar la marca frente a una audiencia amplia. Es útil en campañas de reconocimiento o lanzamiento de colecciones
+                td Una marca de streetwear invierte $50 en anuncios para el lanzamiento de una nueva hoodie y obtiene 25.000 impresiones, logrando un CPM competitivo para aumentar visibilidad
+              tr.bg-color-8
+                td <b>CPC (Costo por clic)</b>
+                td Calcula el costo promedio que se paga por cada clic que los usuarios realizan en un anuncio. Indica cuánto cuesta generar tráfico hacia una página o tienda online
+                td Eficiencia de tráfico: permite analizar qué tan rentable es atraer usuarios hacia el e-commerce o landing page. Se utiliza para optimizar anuncios y segmentación
+                td Una marca de sneakers lanza una campaña hacia su tienda online y paga $0.25 por cada clic en el anuncio que dirige al catálogo de productos
+              tr.bg-color-white
+                td <b>CTR (<em>Click Through Rate</em>)</b>
+                td Representa el porcentaje de usuarios que hicieron clic en un anuncio respecto al número total de impresiones. Refleja el nivel de atractivo y relevancia del mensaje publicitario
+                td Atractivo del anuncio: se usa para evaluar la capacidad del contenido creativo (imagen, video, <em>copy</em>) para generar interés y motivar acción
+                td Un anuncio de una nueva colección de vestidos recibe 10.000 impresiones y 300 clics, logrando un CTR del 3 %, lo que indica que el contenido resulta atractivo para la audiencia
+              tr.bg-color-8
+                td <b>ROAS (<em>Return on Ad Spend</em>)</b>
+                td Mide el retorno económico generado por cada unidad monetaria invertida en publicidad. Permite evaluar la rentabilidad directa de las campañas pagadas
+                td Rentabilidad: ayuda a determinar si la inversión publicitaria está generando ventas suficientes y si la estrategia de pauta es sostenible
+                td Una marca de moda invierte $500 en anuncios para promocionar una colección y genera $2.500 en ventas, obteniendo un ROAS de 5
+    
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-10(data-aos="fade-up") 
+        .bg-color-1.px-5.py-4.tarjeta
+          .row.align-items-center
+            .col-lg-auto.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema1/25.png").mx-auto
+            .col-lg
+              p.mb-0 <b>Clave estratégica</b>. La pauta amplifica resultados; no corrige estrategias débiles.
+    
+    separador
+    
+    #t_1_11.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 1.11 Publicaciones
+    
+    img(src="@/assets/curso/tema1/72.png", alt="Imagen decorativa")
+    
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-10(data-aos="fade-up")
+        p.banner-text La cantidad de publicaciones se refiere a la frecuencia con la que una marca comparte contenido en sus redes sociales durante un periodo determinado, en el Sistema Moda, este factor influye directamente en la visibilidad algorítmica y en la percepción de actividad de la marca. Publicar muy poco reduce presencia; publicar en exceso puede generar saturación, por ello, la frecuencia debe gestionarse estratégicamente.
+    
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 4.
+          span Equilibrio estratégico de publicación en redes sociales 
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/73.png", alt="La figura muestra la importancia de gestionar estratégicamente la frecuencia de publicaciones en redes sociales en el sistema moda. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/73-1.png", alt="La figura muestra la importancia de gestionar estratégicamente la frecuencia de publicaciones en redes sociales en el sistema moda. ")
+        figcaption Fuente: SENA, 2026
+    
+    .row.mb-5.justify-content-center.align-items-center
+      .col-lg-4.mb-3.mb-lg-0
+        figure
+          img(src="@/assets/curso/tema1/74.png", data-aos="zoom-in")
+      .col-lg-8
+        p(data-aos="fade-right") Desde el enfoque técnico, la frecuencia óptima depende de la capacidad de producción de contenido, el comportamiento de la audiencia y el tipo de plataforma. Sus características incluyen regularidad, coherencia temática y equilibrio entre calidad y volumen, no existe una frecuencia universal; la clave está en la consistencia sostenible, hay que tener en cuenta que la sobre publicación sin valor puede deteriorar el engagement.
+    
+        .cajon.color-acento-contenido.p-4
+          p.mb-0 En el sistema moda, la planificación editorial mediante calendarios de contenido permite mantener ritmo sin sacrificar calidad, las marcas que publican con estrategia logran mayor recordación y estabilidad algorítmica. La frecuencia debe revisarse periódicamente según resultados analíticos, la constancia inteligente supera a la publicación impulsiva.
+    
+    .bg-color-1.tarjeta.px-4.mb-5
+      .row.align-items-center
+        .col-lg-auto.mb-lg-0
+          img.d-none.d-lg-flex(src="@/assets/curso/tema1/12.svg").mx-auto
+        .col-lg
+          p.mb-0 <b><em>Insight</em></b>. La marca <b>Raíz Moda Studio</b> pasó de publicar de forma irregular a implementar un calendario de tres publicaciones semanales y stories diarias, en cuatro meses aumentó su alcance en 34 %.
+    
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 5.
+          span Riesgos y recomendaciones en la frecuencia de publicación 
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/75.png", alt="la figura muestra los riesgos y recomendaciones en la frecuencia de publicación.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/75-1.png", alt="la figura muestra los riesgos y recomendaciones en la frecuencia de publicación.")
+        figcaption Fuente: SENA, 2026
+  
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-8(data-aos="fade-up") 
+        .bg-color-1.px-5.py-4.tarjeta
+          .row.align-items-center
+            .col-lg-auto.mb-lg-0
+              img.d-none.d-lg-flex(src="@/assets/curso/tema1/76.png").mx-auto
+            .col-lg
+              h5.mb-0 Cita de reflexión.  
+              p.mb-0 “La disciplina en el análisis revela la verdad que la intuición no alcanza a ver.”
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5.mb-3.mb-lg-0.order-lg-2
+        figure
+          img(src="@/assets/curso/tema1/78.png", data-aos="zoom-in")
+      .col-lg-7.order-lg-1
+        .row.bg-color-15.tarjeta.py-4.align-items-center.justify-content-center
+          .col-md-6.col-lg-5.mb-3.mb-lg-0
+            figure
+              img(src="@/assets/curso/tema1/77.png", data-aos="zoom-in")
+          .col-lg-7
+            h2(data-aos="fade-left").mb-4 ¿Sabías qué?
+            p Lo invitamos a escuchar el siguiente Pódcast:
+            
+            TarjetaAudio.color-secundario.bg-color-white.mb-3(
+              texto="Pendiente por definir el titulo del podcast"
+              tiempo
+              :audio="require('../assets/curso/podcast/podcast1.mp3')"
+            )
+    
 
 </template>
 
