@@ -128,7 +128,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/9.svg").mx-auto
         .col-lg
-          p.mb-0 <b><em>Insight</em></b>. La empresa <b>Distrito Trend</b> Lab analizó variables psicográficas y conductuales de su audiencia digital, identificando una fuerte afinidad hacia tendencias urbanas difundidas por creadores de contenido. Con base en este análisis, implementó estrategias de <em>marketing</em> de influencia y colaboraciones con microinfluencers, esta acción permitió fortalecer la identificación de la marca con su público objetivo y aumentar el tráfico hacia su e-commerce en 48 %.
+          p.mb-0 <b><em>Insight</em></b>. La empresa <b>Distrito Trend</b> Lab analizó variables psicográficas y conductuales de su audiencia digital, identificando una fuerte afinidad hacia tendencias urbanas difundidas por creadores de contenido. Con base en este análisis, implementó estrategias de <em>marketing</em> de influencia y colaboraciones con microinfluencers, esta acción permitió fortalecer la identificación de la marca con su público objetivo y aumentar el tráfico hacia su <em>e-commerce</em> en 48 %.
     
 
     .row.justify-content-center.align-items-center.mb-5
@@ -153,7 +153,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/12.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La aplicabilidad del comportamiento del consumidor al <em>marketing</em> se refiere al uso estratégico de los insights del cliente para diseñar productos, mensajes y experiencias más relevantes, esta aplicación permite transformar la información del consumidor en decisiones comerciales concretas, sin esta traducción práctica, el conocimiento del cliente se queda en el plano teórico, por ello, la aplicabilidad conecta la investigación con la acción.
+        p.mb-0 La aplicabilidad del comportamiento del consumidor al <em>marketing</em> se refiere al uso estratégico de los <em>insights</em> del cliente para diseñar productos, mensajes y experiencias más relevantes, esta aplicación permite transformar la información del consumidor en decisiones comerciales concretas, sin esta traducción práctica, el conocimiento del cliente se queda en el plano teórico, por ello, la aplicabilidad conecta la investigación con la acción.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
@@ -176,9 +176,9 @@
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-5")
           div(titulo="Producto")
-            p.ms-5 El comportamiento del consumidor se aplica en diferentes áreas del <em>marketing</em>, permitiendo que las decisiones empresariales se basen en las preferencias y hábitos del público. Una de las principales áreas es el producto, donde el análisis del consumidor permite diseñar propuestas basadas en insights del mercado, reduciendo el riesgo de lanzar productos poco relevantes. Por ejemplo, en el sistema moda, una marca puede detectar interés por prendas sostenibles y desarrollar una colección elaborada con materiales reciclados.	
+            p.ms-5 El comportamiento del consumidor se aplica en diferentes áreas del <em>marketing</em>, permitiendo que las decisiones empresariales se basen en las preferencias y hábitos del público. Una de las principales áreas es el producto, donde el análisis del consumidor permite diseñar propuestas basadas en <em>insights</em> del mercado, reduciendo el riesgo de lanzar productos poco relevantes. Por ejemplo, en el sistema moda, una marca puede detectar interés por prendas sostenibles y desarrollar una colección elaborada con materiales reciclados.	
           div(titulo="Comunicación")
-            p.ms-5 Otra aplicación se encuentra en la comunicación, donde comprender los intereses y estilos de vida del público permite crear mensajes más personalizados y relevantes. Esto facilita una mayor conexión emocional con la audiencia. En moda, por ejemplo, una marca puede diseñar campañas en redes sociales alineadas con el estilo de vida de su segmento objetivo para aumentar el engagement. 	
+            p.ms-5 Otra aplicación se encuentra en la comunicación, donde comprender los intereses y estilos de vida del público permite crear mensajes más personalizados y relevantes. Esto facilita una mayor conexión emocional con la audiencia. En moda, por ejemplo, una marca puede diseñar campañas en redes sociales alineadas con el estilo de vida de su segmento objetivo para aumentar el <em>engagement</em>. 	
           div(titulo="Experiencia del cliente")
             p.ms-5 El comportamiento del consumidor también se aplica en la experiencia del cliente, especialmente en la optimización del <em>customer journey</em>. Analizar cómo los usuarios interactúan con la marca permite mejorar procesos y reducir fricciones en la compra. En moda, esto puede implicar optimizar la navegación de una tienda online con filtros por talla, estilo o tendencia.
           div(titulo="Fidelización")
@@ -242,7 +242,7 @@
               tr.bg-color-8
                 td <b><em>Microinfluencers</em></b>
                 td Nichos específicos y fuerte conexión con seguidores
-                td Generación de engagement
+                td Generación de <em>engagement</em>
               tr.bg-color-white
                 td <b><em>Macroinfluencers</em></b>
                 td Amplia visibilidad y alcance masivo
@@ -297,7 +297,7 @@
               tr.bg-color-white
                 td <b>Hiperconectado</b>
                 td El consumidor interactúa constantemente con múltiples plataformas digitales como redes sociales, tiendas <em>online</em>, <em>marketplaces</em> y aplicaciones móviles. Consulta información desde diferentes dispositivos y espera una experiencia fluida entre canales
-                td Las marcas deben desarrollar estrategias omnicanal, integrando redes sociales, e-commerce y tiendas físicas para ofrecer una experiencia coherente en todos los puntos de contacto
+                td Las marcas deben desarrollar estrategias omnicanal, integrando redes sociales, <em>e-commerce</em> y tiendas físicas para ofrecer una experiencia coherente en todos los puntos de contacto
                 td Un cliente descubre una chaqueta en Instagram, revisa detalles en la tienda <em>online</em> y finalmente la compra desde su celular
               tr.bg-color-8
                 td <b>Informado</b>
@@ -339,7 +339,7 @@
               img(src="@/assets/curso/tema4/21.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos a escuchar el siguiente Pódcast:
+            p Lo invitamos a escuchar el siguiente Podcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
               texto="Pendiente por definir el titulo del podcast"

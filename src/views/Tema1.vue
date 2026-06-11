@@ -108,7 +108,7 @@
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/4.svg").mx-auto
             .col-lg
-              p.mb-0 Los “me gusta - likes” representan una de las formas más básicas de interacción del usuario con el contenido publicado en redes sociales.
+              p.mb-0 Los “me gusta - <em>likes</em>” representan una de las formas más básicas de interacción del usuario con el contenido publicado en redes sociales.
     
     .bg-full-width.bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -133,7 +133,7 @@
                 img(src='@/assets/curso/tema1/10.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
               h4 Interpretación estratégica
-              p.mb-0 Un alto volumen de likes sin conversiones puede indicar consumo superficial, la interpretación adecuada exige cruzar esta métrica con indicadores más profundos.
+              p.mb-0 Un alto volumen de <em>likes</em> sin conversiones puede indicar consumo superficial, la interpretación adecuada exige cruzar esta métrica con indicadores más profundos.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-4.mb-3.mb-lg-0.order-2
               figure
@@ -147,7 +147,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema1/12.svg").mx-auto
         .col-lg
-          p.mb-0 <b><em>Insight</em></b>. La marca <b>Aura Visual Studio</b> observó que las fotos con modelos en contexto urbano obtenían 45 % más likes que las fotos de producto en fondo blanco. Ajustó su línea visual y mejoró su <em>engagement</em> general.
+          p.mb-0 <b><em>Insight</em></b>. La marca <b>Aura Visual Studio</b> observó que las fotos con modelos en contexto urbano obtenían 45 % más <em>likes</em> que las fotos de producto en fondo blanco. Ajustó su línea visual y mejoró su <em>engagement</em> general.
     
     p.mb-5 Reflexione sobre el valor estratégico de esta métrica dentro del análisis de redes sociales y responda la siguiente pregunta:
 
@@ -207,7 +207,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/19.png").mx-auto
             .col-lg
               h4 Valor estratégico en el Sistema Moda
-              p.mb-0 En el sistema moda, esta métrica es especialmente valiosa porque revela el nivel de involucramiento cognitivo y emocional del público, a diferencia del “me gusta”, comentar exige mayor esfuerzo del usuario, por lo que su presencia indica interés significativo, de allí, que los comentarios son considerados un indicador cualitativo de engagement.
+              p.mb-0 En el sistema moda, esta métrica es especialmente valiosa porque revela el nivel de involucramiento cognitivo y emocional del público, a diferencia del “me gusta”, comentar exige mayor esfuerzo del usuario, por lo que su presencia indica interés significativo, de allí, que los comentarios son considerados un indicador cualitativo de <em>engagement</em>.
           .row.tarjeta.color-acento-botones--borde.p-4(titulo="Análisis estratégico")
             .col-lg-auto.mb-lg-3
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/20.png").mx-auto
@@ -249,7 +249,7 @@
           span Lectura estratégica de comentarios
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/24.svg", alt="la figura muestra la lectura estratégica de los comentarios.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/24-1.svg", alt="la figura muestra la lectura estratégica de los comentarios.")
-        figcaption Fuente: SENA, 2026
+        figcaption Fuente: SENA, 2026.
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up") 
@@ -279,7 +279,7 @@
         figure
           img(src="@/assets/curso/tema1/27.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") Las historias (stories) son formatos de contenido efímero que permanecen visibles por tiempo limitado y permiten una comunicación más espontánea y cercana. En el Sistema Moda, las historias se han convertido en una herramienta clave para mostrar el detrás de cámaras, lanzamientos rápidos y promociones flash, su naturaleza temporal genera sensación de urgencia y exclusividad, por ello, constituyen un formato de alto valor táctico.
+        p(data-aos="fade-right") Las historias (<em>stories</em>) son formatos de contenido efímero que permanecen visibles por tiempo limitado y permiten una comunicación más espontánea y cercana. En el Sistema Moda, las historias se han convertido en una herramienta clave para mostrar el detrás de cámaras, lanzamientos rápidos y promociones flash, su naturaleza temporal genera sensación de urgencia y exclusividad, por ello, constituyen un formato de alto valor táctico.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 A continuación, se presentan algunos elementos relacionados con el análisis estratégico de las historias en redes sociales.
@@ -330,16 +330,16 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-5")
           div(titulo="Visualizaciones")
             p.ms-5 Número total de veces que la historia fue vista por usuarios. Permite identificar el alcance inmediato y la capacidad de la marca para captar atención en el primer impacto. También ayuda a detectar los mejores horarios de publicación.
-            p.ms-5.mb-0 <b>Interés inicial</b>: se utiliza para evaluar la capacidad de atracción del contenido, optimizar horarios de publicación y comparar el rendimiento entre diferentes tipos de historias (producto, lifestyle, promoción). En moda, ayuda a validar qué formatos generan mayor visibilidad.
+            p.ms-5.mb-0 <b>Interés inicial</b>: se utiliza para evaluar la capacidad de atracción del contenido, optimizar horarios de publicación y comparar el rendimiento entre diferentes tipos de historias (producto, <em>lifestyle</em>, promoción). En moda, ayuda a validar qué formatos generan mayor visibilidad.
           div(titulo="Tasa de finalización")
             p.ms-5 Porcentaje de usuarios que ven la secuencia completa de historias respecto a quienes la iniciaron. Refleja el nivel de retención y la coherencia narrativa del contenido secuencial.
-            p.ms-5.mb-0 <b>Calidad narrativa</b>: permite identificar si la historia mantiene la atención del público. Sirve para ajustar duración, ritmo visual y orden del storytelling. En el Sistema Moda, ayuda a optimizar secuencias de lanzamiento, backstage o storytelling de colección.
+            p.ms-5.mb-0 <b>Calidad narrativa</b>: permite identificar si la historia mantiene la atención del público. Sirve para ajustar duración, ritmo visual y orden del <em>storytelling</em>. En el Sistema Moda, ayuda a optimizar secuencias de lanzamiento, <em>backstage</em> o <em>storytelling</em> de colección.
           div(titulo="Respuestas")
-            p.ms-5 Cantidad de mensajes directos generados a partir de la historia (reacciones, respuestas a stickers, preguntas). Mide la interacción conversacional y el nivel de cercanía con la audiencia.
-            p.ms-5.p.mb-0 <b>Conversación</b>: se utiliza para activar comunidad, validar intereses y generar relaciones más cercanas. En moda, es clave para recibir feedback sobre productos, tallas o preferencias de estilo. También nutre leads cualificados.
+            p.ms-5 Cantidad de mensajes directos generados a partir de la historia (reacciones, respuestas a <em>stickers</em>, preguntas). Mide la interacción conversacional y el nivel de cercanía con la audiencia.
+            p.ms-5.p.mb-0 <b>Conversación</b>: se utiliza para activar comunidad, validar intereses y generar relaciones más cercanas. En moda, es clave para recibir <em>feedback</em> sobre productos, tallas o preferencias de estilo. También nutre leads cualificados.
           div(titulo="Clics")
-            p.ms-5 Número de veces que los usuarios hacen clic en enlaces, stickers de producto o llamados a la acción dentro de la historia. Indica intención activa del usuario.
-            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia e-commerce o landing pages. En el Sistema Moda, es fundamental para medir impacto de drops, promociones y lanzamientos.
+            p.ms-5 Número de veces que los usuarios hacen clic en enlaces, <em>stickers</em> de producto o llamados a la acción dentro de la historia. Indica intención activa del usuario.
+            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el Sistema Moda, es fundamental para medir impacto de drops, promociones y lanzamientos.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -513,7 +513,7 @@
         figure
           img(src="@/assets/curso/tema1/49.png", data-aos="zoom-in")
       .col-lg-8
-        p El siguiente insight presenta un ejemplo relacionado con el crecimiento estratégico de seguidores y la importancia de construir comunidades alineadas con el propósito de marca.
+        p El siguiente <em>insight</em> presenta un ejemplo relacionado con el crecimiento estratégico de seguidores y la importancia de construir comunidades alineadas con el propósito de marca.
         .bg-color-1.tarjeta.px-4
           .row.align-items-center
             .col-lg-auto.mb-lg-0
@@ -593,16 +593,16 @@
             tbody
               tr.bg-color-white
                 td <b>Orgánico</b>
-                td Se genera de manera natural a partir de la distribución algorítmica y la interacción genuina de la audiencia sin inversión publicitaria. Depende de la relevancia del contenido, la afinidad con la comunidad y la consistencia editorial de la marca
-                td Validación de contenido: permite comprobar qué formatos, mensajes y propuestas visuales conectan realmente con la audiencia. En el Sistema Moda, se usa para testear colecciones, estilos creativos y narrativa de marca antes de invertir en pauta
+                td Se genera de manera natural a partir de la distribución algorítmica y la interacción genuina de la audiencia sin inversión publicitaria. Depende de la relevancia del contenido, la afinidad con la comunidad y la consistencia editorial de la marca.
+                td Validación de contenido: permite comprobar qué formatos, mensajes y propuestas visuales conectan realmente con la audiencia. En el Sistema Moda, se usa para testear colecciones, estilos creativos y narrativa de marca antes de invertir en pauta.
               tr.bg-color-8
                 td <b>Pagado</b>
-                td Proviene de la inversión en publicidad digital dentro de plataformas como Meta Ads o TikTok Ads. La visibilidad se amplifica mediante segmentación definida, presupuesto y optimización de campañas
-                td Escalamiento: se utiliza para ampliar el alcance de contenidos que ya demostraron tracción orgánica, acelerar lanzamientos y captar nuevas audiencias. En moda, es clave para impulsar drops, temporadas y campañas comerciales
+                td Proviene de la inversión en publicidad digital dentro de plataformas como Meta Ads o TikTok Ads. La visibilidad se amplifica mediante segmentación definida, presupuesto y optimización de campañas.
+                td Escalamiento: se utiliza para ampliar el alcance de contenidos que ya demostraron tracción orgánica, acelerar lanzamientos y captar nuevas audiencias. En moda, es clave para impulsar drops, temporadas y campañas comerciales.
               tr.bg-color-white
                 td <b>Viral</b>
-                td Surge cuando los propios usuarios comparten el contenido de forma masiva, generando una propagación exponencial no controlada directamente por la marca. Se apoya en alto <em>engagement</em>, valor emocional y efecto red
-                td Amplificación: permite multiplicar la visibilidad y el posicionamiento de la marca con bajo costo marginal. En el Sistema Moda, se aprovecha para potenciar tendencias, retos de estilo y contenidos altamente compartibles
+                td Surge cuando los propios usuarios comparten el contenido de forma masiva, generando una propagación exponencial no controlada directamente por la marca. Se apoya en alto <em>engagement</em>, valor emocional y efecto red.
+                td Amplificación: permite multiplicar la visibilidad y el posicionamiento de la marca con bajo costo marginal. En el Sistema Moda, se aprovecha para potenciar tendencias, retos de estilo y contenidos altamente compartibles.
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -648,7 +648,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span Tipos de métricas digitales.
+          span Tipos de métricas digitales
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/43.svg", alt="la figura nos presenta los tipos de métricas digitales.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/44.svg", alt="la figura nos presenta los tipos de métricas digitales.")
         figcaption Fuente: SENA, 2026
@@ -687,53 +687,53 @@
             tbody
               tr.bg-color-white
                 td <b>CTR (<em>Click Through Rate</em>)</b>
-                td Porcentaje de personas que hicieron click en un enlace o anuncio respecto al número de personas que lo vieron. Permite evaluar la efectividad del contenido o del llamado a la acción
-                td Un anuncio de la nueva colección tuvo 10.000 visualizaciones y 300 clics al e-commerce, logrando un CTR del 3 %
+                td Porcentaje de personas que hicieron clic en un enlace o anuncio respecto al número de personas que lo vieron. Permite evaluar la efectividad del contenido o del llamado a la acción.
+                td Un anuncio de la nueva colección tuvo 10.000 visualizaciones y 300 clics al <em>e-commerce</em>, logrando un CTR del 3 %.
                 td Conversión
               tr.bg-color-8
                 td <b>Engagement por publicación</b>
-                td Promedio de interacciones que recibe cada publicación individual dentro de un periodo determinado. Permite identificar contenidos de alto rendimiento
-                td Un reel de outfits urbanos genera 1.200 interacciones, superando el promedio de publicaciones de la marca
+                td Promedio de interacciones que recibe cada publicación individual dentro de un periodo determinado. Permite identificar contenidos de alto rendimiento.
+                td Un <em>reel</em> de <em>outfits</em> urbanos genera 1.200 interacciones, superando el promedio de publicaciones de la marca.
                 td <em>Engagement</em>
               tr.bg-color-white
                 td <b>Interacciones totales</b>
-                td Suma de acciones realizadas por los usuarios sobre un contenido: likes, comentarios, guardados y compartidos. Refleja el nivel general de participación
-                td Un carrusel de la nueva colección recibe 2.500 interacciones entre likes, comentarios y guardados
+                td Suma de acciones realizadas por los usuarios sobre un contenido: <em>likes</em>, comentarios, guardados y compartidos. Refleja el nivel general de participación.
+                td Un carrusel de la nueva colección recibe 2.500 interacciones entre <em>likes</em>, comentarios y guardados.
                 td <em>Engagement</em>
               tr.bg-color-8
                 td <b>Ratio de comentarios</b>
-                td Relación entre la cantidad de comentarios y el número total de visualizaciones o seguidores. Permite medir la profundidad de conversación generada por el contenido
-                td Un video de styling recibe 120 comentarios sobre 5.000 visualizaciones, indicando alta participación
+                td Relación entre la cantidad de comentarios y el número total de visualizaciones o seguidores. Permite medir la profundidad de conversación generada por el contenido.
+                td Un video de <em>styling</em> recibe 120 comentarios sobre 5.000 visualizaciones, indicando alta participación.
                 td <em>Engagement</em>
               tr.bg-color-white
                 td <b>Ratio de guardados</b>
-                td Proporción de usuarios que guardan una publicación para verla más tarde. Indica alto valor o utilidad del contenido
-                td Un post con “10 ideas de outfits con blazer” es guardado por 350 usuarios
+                td Proporción de usuarios que guardan una publicación para verla más tarde. Indica alto valor o utilidad del contenido.
+                td Un post con “10 ideas de outfits con blazer” es guardado por 350 usuarios.
                 td <em>Engagement</em>
               tr.bg-color-8
                 td <b>Tasa de abandono</b>
-                td Porcentaje de usuarios que dejan de seguir la cuenta en un periodo específico. Permite evaluar la pérdida de audiencia
-                td Durante una semana, una marca pierde 120 seguidores tras publicar contenido excesivamente promocional
+                td Porcentaje de usuarios que dejan de seguir la cuenta en un periodo específico. Permite evaluar la pérdida de audiencia.
+                td Durante una semana, una marca pierde 120 seguidores tras publicar contenido excesivamente promocional.
                 td Audiencia
               tr.bg-color-white
                 td <b>Tasa de click en perfil</b>
-                td Porcentaje de usuarios que visitan el perfil de la marca después de ver una publicación o anuncio. Indica interés por conocer más sobre la marca
-                td Un reel de lanzamiento lleva a que 800 usuarios visiten el perfil de la marca de moda
+                td Porcentaje de usuarios que visitan el perfil de la marca después de ver una publicación o anuncio. Indica interés por conocer más sobre la marca.
+                td Un <em>reel</em> de lanzamiento lleva a que 800 usuarios visiten el perfil de la marca de moda.
                 td Consideración
               tr.bg-color-8
                 td <b>Tasa de interacción en historias</b>
-                td Proporción de usuarios que responden, reaccionan o interactúan con historias respecto al número de visualizaciones
-                td Una secuencia de historias sobre un nuevo drop genera 150 respuestas de 1.500 visualizaciones
+                td Proporción de usuarios que responden, reaccionan o interactúan con historias respecto al número de visualizaciones.
+                td Una secuencia de historias sobre un nuevo drop genera 150 respuestas de 1.500 visualizaciones.
                 td <em>Engagement</em>
               tr.bg-color-white
                 td <b>Tráfico social al sitio web</b>
-                td Cantidad de visitas al sitio web provenientes de redes sociales. Permite medir la capacidad de las plataformas para dirigir usuarios hacia el e-commerce
-                td Instagram genera 1.200 visitas al e-commerce de una marca de sneakers en un día
+                td Cantidad de visitas al sitio web provenientes de redes sociales. Permite medir la capacidad de las plataformas para dirigir usuarios hacia el <em>e-commerce</em>.
+                td Instagram genera 1.200 visitas al <em>e-commerce</em> de una marca de <em>sneakers</em> en un día.
                 td Conversión
               tr.bg-color-8
                 td <b>Usuarios recurrentes</b>
-                td Número de personas que interactúan o visitan repetidamente los contenidos de la marca en un periodo determinado. Indica fidelización y comunidad activa
-                td 300 usuarios interactúan semanalmente con los contenidos de una marca de moda sostenible
+                td Número de personas que interactúan o visitan repetidamente los contenidos de la marca en un periodo determinado. Indica fidelización y comunidad activa.
+                td 300 usuarios interactúan semanalmente con los contenidos de una marca de moda sostenible.
                 td Audiencia
     
     .row.justify-content-center.align-items-center.z-2.mb-5
@@ -834,22 +834,43 @@
               tr.bg-color-white
                 td <b><em>Google Analytics</em></b>
                 td Permite analizar tráfico web, comportamiento de usuarios y conversiones
-                td Google Analytics | Google for Developers
+                td 
+                  a.anexo.mb-4.mb-lg-0(href="https://developers.google.com/analytics?hl=es-419" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-link.svg")
+                    .anexo__texto
+                      p <em>Google Analytics | Google for Developers</em>
+        
                 td Sí
               tr.bg-color-8
                 td <b><em>Business Suite</em></b>
                 td Facilita el monitoreo de métricas en Facebook e Instagram
-                td Meta Business Suite: Administrar Facebook e Instagram en un solo lugar | Meta for Business
+                td 
+                  a.anexo.mb-4.mb-lg-0(href="https://www.facebook.com/business/tools/meta-business-suite/" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-link.svg")
+                    .anexo__texto
+                      p <em>Meta Business Suite</em>: Administrar Facebook e Instagram en un solo lugar | <em>Meta for Business</em>
                 td Sí
               tr.bg-color-white
                 td <b><em>Hootsuite Analytics</em></b>
                 td Ofrece datos sobre interacciones y rendimiento de publicaciones
-                td Social Media Analytics Tools - Hootsuite Analytics
+                td 
+                  a.anexo.mb-4.mb-lg-0(href="https://www.hootsuite.com/es/platform/analytics" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-link.svg")
+                    .anexo__texto
+                      p <em>Social Media Analytics Tools - Hootsuite Analytics</em>
                 td No, pero se cuenta con periodo de prueba
               tr.bg-color-8
                 td <b><em>SEMrush</em></b>
                 td Ideal para el análisis de posicionamiento SEO y <em>marketing</em> digital
-                td Semrush, el <em>marketing</em> online puede ser fácil
+                td 
+                  a.anexo.mb-4.mb-lg-0(href="https://es.semrush.com/" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-link.svg")
+                    .anexo__texto
+                      p <em>Semrush</em>, el <em>marketing online</em> puede ser fácil
                 td No, pero se cuenta con periodo de prueba
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
@@ -869,7 +890,7 @@
           p.mb-0 En el sistema moda, la analítica permite identificar qué colecciones generan mayor interés, qué formatos visuales convierten mejor y qué segmentos responden con mayor rentabilidad. Las marcas que desarrollan cultura analítica optimizan su inversión publicitaria y fortalecen la experiencia del cliente, la analítica no sustituye la creatividad, pero la orienta con precisión.
     
     .bg-color-9.tarjeta.p-4.mb-5
-      p.mb-0 La recopilación de datos es solo el primer paso en el proceso de obtener información valiosa, sin una interpretación adecuada, los datos siguen siendo cifras y registros sin un propósito claro. La generación de insights implica analizar patrones en la información obtenida para transformar los datos en conocimiento accionable (Muñoz & Elosegui, 2018). La clave está en analizarlos con profundidad, identificar tendencias y reconocer patrones que ayuden a comprender mejor el comportamiento de los usuarios, el mercado y las oportunidades de negocio. 
+      p.mb-0 La recopilación de datos es solo el primer paso en el proceso de obtener información valiosa, sin una interpretación adecuada, los datos siguen siendo cifras y registros sin un propósito claro. La generación de <em>insights</em> implica analizar patrones en la información obtenida para transformar los datos en conocimiento accionable (Muñoz & Elosegui, 2018). La clave está en analizarlos con profundidad, identificar tendencias y reconocer patrones que ayuden a comprender mejor el comportamiento de los usuarios, el mercado y las oportunidades de negocio. 
     
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
@@ -919,7 +940,7 @@
         figure
           img(src="@/assets/curso/tema1/71.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p En el sistema moda, la pauta debe integrarse con contenido orgánico validado previamente, escalar contenido que ya demostró engagement reduce el riesgo financiero, además, la pauta debe ajustarse según temporada, comportamiento del consumidor y ciclo de vida de la colección.
+        p En el sistema moda, la pauta debe integrarse con contenido orgánico validado previamente, escalar contenido que ya demostró <em>engagement</em> reduce el riesgo financiero, además, la pauta debe ajustarse según temporada, comportamiento del consumidor y ciclo de vida de la colección.
         p La gestión inteligente del presupuesto publicitario fortalece la competitividad digital.
         .bg-color-1.tarjeta.px-4
           .row.align-items-center
@@ -945,24 +966,24 @@
             tbody
               tr.bg-color-white
                 td <b>CPM (Costo por mil impresiones)</b>
-                td Mide el costo que paga el anunciante por cada mil veces que un anuncio es mostrado en la plataforma. Permite estimar el precio de visibilidad dentro de una campaña publicitaria
-                td Eficiencia de alcance: se utiliza para evaluar qué tan económico resulta posicionar la marca frente a una audiencia amplia. Es útil en campañas de reconocimiento o lanzamiento de colecciones
-                td Una marca de streetwear invierte $50 en anuncios para el lanzamiento de una nueva hoodie y obtiene 25.000 impresiones, logrando un CPM competitivo para aumentar visibilidad
+                td Mide el costo que paga el anunciante por cada mil veces que un anuncio es mostrado en la plataforma. Permite estimar el precio de visibilidad dentro de una campaña publicitaria.
+                td Eficiencia de alcance: se utiliza para evaluar qué tan económico resulta posicionar la marca frente a una audiencia amplia. Es útil en campañas de reconocimiento o lanzamiento de colecciones.
+                td Una marca de <em>streetwear</em> invierte $50 en anuncios para el lanzamiento de una nueva <em>hoodie</em> y obtiene 25.000 impresiones, logrando un CPM competitivo para aumentar visibilidad.
               tr.bg-color-8
                 td <b>CPC (Costo por clic)</b>
-                td Calcula el costo promedio que se paga por cada clic que los usuarios realizan en un anuncio. Indica cuánto cuesta generar tráfico hacia una página o tienda online
-                td Eficiencia de tráfico: permite analizar qué tan rentable es atraer usuarios hacia el e-commerce o landing page. Se utiliza para optimizar anuncios y segmentación
-                td Una marca de sneakers lanza una campaña hacia su tienda online y paga $0.25 por cada clic en el anuncio que dirige al catálogo de productos
+                td Calcula el costo promedio que se paga por cada clic que los usuarios realizan en un anuncio. Indica cuánto cuesta generar tráfico hacia una página o tienda <em>online</em>.
+                td Eficiencia de tráfico: permite analizar qué tan rentable es atraer usuarios hacia el <em>e-commerce</em> o <em>landing page</em>. Se utiliza para optimizar anuncios y segmentación.
+                td Una marca de <em>sneakers</em> lanza una campaña hacia su tienda <em>online</em> y paga $0.25 por cada clic en el anuncio que dirige al catálogo de productos.
               tr.bg-color-white
                 td <b>CTR (<em>Click Through Rate</em>)</b>
-                td Representa el porcentaje de usuarios que hicieron clic en un anuncio respecto al número total de impresiones. Refleja el nivel de atractivo y relevancia del mensaje publicitario
-                td Atractivo del anuncio: se usa para evaluar la capacidad del contenido creativo (imagen, video, <em>copy</em>) para generar interés y motivar acción
-                td Un anuncio de una nueva colección de vestidos recibe 10.000 impresiones y 300 clics, logrando un CTR del 3 %, lo que indica que el contenido resulta atractivo para la audiencia
+                td Representa el porcentaje de usuarios que hicieron clic en un anuncio respecto al número total de impresiones. Refleja el nivel de atractivo y relevancia del mensaje publicitario.
+                td Atractivo del anuncio: se usa para evaluar la capacidad del contenido creativo (imagen, video, <em>copy</em>) para generar interés y motivar acción.
+                td Un anuncio de una nueva colección de vestidos recibe 10.000 impresiones y 300 clics, logrando un CTR del 3 %, lo que indica que el contenido resulta atractivo para la audiencia.
               tr.bg-color-8
                 td <b>ROAS (<em>Return on Ad Spend</em>)</b>
-                td Mide el retorno económico generado por cada unidad monetaria invertida en publicidad. Permite evaluar la rentabilidad directa de las campañas pagadas
-                td Rentabilidad: ayuda a determinar si la inversión publicitaria está generando ventas suficientes y si la estrategia de pauta es sostenible
-                td Una marca de moda invierte $500 en anuncios para promocionar una colección y genera $2.500 en ventas, obteniendo un ROAS de 5
+                td Mide el retorno económico generado por cada unidad monetaria invertida en publicidad. Permite evaluar la rentabilidad directa de las campañas pagadas.
+                td Rentabilidad: ayuda a determinar si la inversión publicitaria está generando ventas suficientes y si la estrategia de pauta es sostenible.
+                td Una marca de moda invierte $500 en anuncios para promocionar una colección y genera $2.500 en ventas, obteniendo un ROAS de 5.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up") 
@@ -998,7 +1019,7 @@
         figure
           img(src="@/assets/curso/tema1/74.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") Desde el enfoque técnico, la frecuencia óptima depende de la capacidad de producción de contenido, el comportamiento de la audiencia y el tipo de plataforma. Sus características incluyen regularidad, coherencia temática y equilibrio entre calidad y volumen, no existe una frecuencia universal; la clave está en la consistencia sostenible, hay que tener en cuenta que la sobre publicación sin valor puede deteriorar el engagement.
+        p(data-aos="fade-right") Desde el enfoque técnico, la frecuencia óptima depende de la capacidad de producción de contenido, el comportamiento de la audiencia y el tipo de plataforma. Sus características incluyen regularidad, coherencia temática y equilibrio entre calidad y volumen, no existe una frecuencia universal; la clave está en la consistencia sostenible, hay que tener en cuenta que la sobre publicación sin valor puede deteriorar el <em>engagement</em>.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 En el sistema moda, la planificación editorial mediante calendarios de contenido permite mantener ritmo sin sacrificar calidad, las marcas que publican con estrategia logran mayor recordación y estabilidad algorítmica. La frecuencia debe revisarse periódicamente según resultados analíticos, la constancia inteligente supera a la publicación impulsiva.
@@ -1008,7 +1029,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema1/12.svg").mx-auto
         .col-lg
-          p.mb-0 <b><em>Insight</em></b>. La marca <b>Raíz Moda Studio</b> pasó de publicar de forma irregular a implementar un calendario de tres publicaciones semanales y stories diarias, en cuatro meses aumentó su alcance en 34 %.
+          p.mb-0 <b><em>Insight</em></b>. La marca <b>Raíz Moda Studio</b> pasó de publicar de forma irregular a implementar un calendario de tres publicaciones semanales y <em>stories</em> diarias, en cuatro meses aumentó su alcance en 34 %.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8
@@ -1040,7 +1061,7 @@
               img(src="@/assets/curso/tema1/77.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos a escuchar el siguiente Pódcast:
+            p Lo invitamos a escuchar el siguiente Podcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
               texto="Pendiente por definir el titulo del podcast"

@@ -356,6 +356,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
+          nombre: 'Sandra Isabel Suárez Delgado',
+          cargo: ' Experto Temático ',
+          centro: 'Centro de Gestión y Servicios',
+        },
+        {
+          nombre: 'Harbey Castelblanco',
+          cargo: ' Experto Temático ',
+          centro: 'Centro Nacional Colombo Alemán',
+        },
+        {
           nombre: 'Nicolás Cruz Ríos ',
           cargo: ' Experto Temático ',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico ',

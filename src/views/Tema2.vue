@@ -88,13 +88,13 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/8.png").mx-auto
             .col-lg
               p Determina el método matemático utilizado para calcular el indicador. Establece la relación entre las variables necesarias para medir el desempeño de manera cuantificable y comparable.
-              p <b>Ejemplo en moda</b>:  para medir la conversión en el e-commerce de moda se utiliza la fórmula: Ventas / número de visitas al sitio web, lo que permite conocer qué porcentaje de visitantes realiza una compra.
+              p <b>Ejemplo en moda</b>:  para medir la conversión en el <em>e-commerce</em> de moda se utiliza la fórmula: Ventas / número de visitas al sitio web, lo que permite conocer qué porcentaje de visitantes realiza una compra.
           .row(titulo="Fuente de datos")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/9.png").mx-auto
             .col-lg
               p Indica la plataforma, sistema o herramienta desde donde se obtienen los datos necesarios para calcular el KPI. Garantiza la confiabilidad y trazabilidad de la información utilizada en el análisis.
-              p <b>Ejemplo en moda</b>: los datos de visitas, comportamiento de usuarios y transacciones del e-commerce se obtienen desde Google Analytics y la plataforma de la tienda online.
+              p <b>Ejemplo en moda</b>: los datos de visitas, comportamiento de usuarios y transacciones del <em>e-commerce</em> se obtienen desde <em>Google Analytics</em> y la plataforma de la tienda <em>online</em>.
           .row(titulo="Frecuencia")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/10.png").mx-auto
@@ -106,7 +106,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/11.png").mx-auto
             .col-lg
               p Representa el valor objetivo que se espera alcanzar con el KPI. Sirve como referencia para evaluar el éxito o la necesidad de ajustar la estrategia.
-              p <b>Ejemplo en moda</b>: la marca establece como meta alcanzar una tasa de conversión del 3 % en su e-commerce, lo que indicaría una mejora en la efectividad de sus campañas digitales.
+              p <b>Ejemplo en moda</b>: la marca establece como meta alcanzar una tasa de conversión del 3 % en su <em>e-commerce</em>, lo que indicaría una mejora en la efectividad de sus campañas digitales.
     
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
@@ -261,7 +261,7 @@
                 td <b><em>Engagement rate</em></b>
                 td Interacciones / Alcance x 100
                 td Mide el nivel de interacción de la audiencia con el contenido publicado. Permite evaluar la relevancia y el interés que generan las publicaciones en redes sociales
-                td Un reel de outfits urbanos alcanza 10.000 personas y recibe 800 interacciones, generando un engagement del 8 %
+                td Un reel de outfits urbanos alcanza 10.000 personas y recibe 800 interacciones, generando un <em>engagement</em> del 8 %
               tr.bg-color-white
                 td <b>ROAS</b>
                 td Ingresos / inversión publicitaria
@@ -286,7 +286,7 @@
                 td <b>CPC (Costo por clic)</b>
                 td Inversión publicitaria / número de clics
                 td Indica cuánto cuesta generar tráfico hacia el sitio web a través de anuncios. Permite evaluar la eficiencia de las campañas de pauta digital
-                td Una campaña en <em>Instagram Ads</em> invierte $600 y genera 3.000 clics al e-commerce, logrando un CPC de $0.20
+                td Una campaña en <em>Instagram Ads</em> invierte $600 y genera 3.000 clics al <em>e-commerce</em>, logrando un CPC de $0.20
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8(data-aos="fade-up") 

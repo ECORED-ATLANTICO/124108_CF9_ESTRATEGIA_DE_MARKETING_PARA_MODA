@@ -171,7 +171,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Engagement generado por las publicaciones y acciones de la audiencia.',
+                '<em>Engagement</em> generado por las publicaciones y acciones de la audiencia.',
               esCorrecta: true,
             },
             {
@@ -603,7 +603,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Eliminar la necesidad de analizar métricas relacionadas con engagement digital.',
+                'Eliminar la necesidad de analizar métricas relacionadas con <em>engagement</em> digital.',
               esCorrecta: false,
             },
             {
@@ -654,7 +654,7 @@ export default {
         {
           id: 19,
           texto:
-            '¿Qué característica distingue principalmente a las historias o stories digitales?',
+            '¿Qué característica distingue principalmente a las historias o <em>stories</em> digitales?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
