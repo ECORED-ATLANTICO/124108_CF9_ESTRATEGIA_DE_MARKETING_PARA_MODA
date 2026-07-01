@@ -1061,10 +1061,10 @@
               img(src="@/assets/curso/tema1/77.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos a escuchar el siguiente Podcast:
+            p Lo invitamos al siguiente Podcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
-              texto="Pendiente por definir el titulo del podcast"
+              texto="Desempeño estratégico en comunidades digitales"
               tiempo
               :audio="require('../assets/curso/podcast/podcast1.mp3')"
             )
