@@ -679,7 +679,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Sustituyen todas las publicaciones permanentes realizadas en el feed principal.',
+                'Sustituyen todas las publicaciones permanentes realizadas en el <em>feed</em> principal.',
               esCorrecta: false,
             },
           ],

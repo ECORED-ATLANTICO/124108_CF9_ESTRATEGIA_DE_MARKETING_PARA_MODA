@@ -36,7 +36,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Desempeño red social',
+        titulo: 'Desempeño de la red social',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -342,7 +342,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturistico - Regional Santander',
         },
         {
@@ -355,16 +355,6 @@ export default {
     {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
-        {
-          nombre: 'Sandra Isabel Suárez Delgado',
-          cargo: ' Experto Temático ',
-          centro: 'Centro de Gestión y Servicios',
-        },
-        {
-          nombre: 'Harbey Castelblanco',
-          cargo: ' Experto Temático ',
-          centro: 'Centro Nacional Colombo Alemán',
-        },
         {
           nombre: 'Nicolás Cruz Ríos ',
           cargo: ' Experto Temático ',

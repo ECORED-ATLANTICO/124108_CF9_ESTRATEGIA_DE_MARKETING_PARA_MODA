@@ -51,7 +51,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Comportamiento del consumidor.
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA,  explica el concepto de comportamiento del consumidor. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA,  explica el concepto de comportamiento del consumidor. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dhSD-ndBs6g" target="_blank")
                     span Ir al video
@@ -90,7 +90,7 @@
     .row.justify-content-center
       .col-lg-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 7.
+          h5 Tabla 10.
           span Variables que influyen en el comportamiento del consumidor
         .tabla-a.color-secundario.mb-5.tbl
           table
@@ -104,31 +104,31 @@
             tbody
               tr.bg-color-white
                 td <b>Psicológicas</b>
-                td Incluyen procesos internos del consumidor como motivación, percepción, aprendizaje, creencias y actitudes hacia productos o marcas. Estos factores determinan cómo las personas interpretan la información y qué valor simbólico asignan a la moda
-                td Influyen en la preferencia de marca, la percepción de estilo y la conexión emocional con productos o colecciones. En moda, la compra muchas veces responde a aspiraciones personales y a la búsqueda de identidad
-                td Un consumidor compra <em>sneakers</em> de edición limitada porque percibe la marca como innovadora y asociada a exclusividad
+                td Incluyen procesos internos del consumidor como motivación, percepción, aprendizaje, creencias y actitudes hacia productos o marcas. Estos factores determinan cómo las personas interpretan la información y qué valor simbólico asignan a la moda.
+                td Influyen en la preferencia de marca, la percepción de estilo y la conexión emocional con productos o colecciones. En moda, la compra muchas veces responde a aspiraciones personales y a la búsqueda de identidad.
+                td Un consumidor compra <em>sneakers</em> de edición limitada porque percibe la marca como innovadora y asociada a exclusividad.
               tr.bg-color-8
                 td <b>Sociales</b>
-                td Comprenden la influencia de grupos de referencia, familia, comunidades digitales, líderes de opinión e <em>influencers</em> que orientan las decisiones de consumo. Estos grupos actúan como guías de comportamiento y validación social
-                td Favorecen la difusión de tendencias y la adopción de estilos, especialmente en entornos digitales donde las recomendaciones y el contenido de creadores influyen en las preferencias del público
-                td Una <em>influencer</em> de moda urbana promociona una chaqueta <em>oversize</em> y la prenda se vuelve tendencia entre jóvenes en redes sociales
+                td Comprenden la influencia de grupos de referencia, familia, comunidades digitales, líderes de opinión e <em>influencers</em> que orientan las decisiones de consumo. Estos grupos actúan como guías de comportamiento y validación social.
+                td Favorecen la difusión de tendencias y la adopción de estilos, especialmente en entornos digitales donde las recomendaciones y el contenido de creadores influyen en las preferencias del público.
+                td Una <em>influencer</em> de moda urbana promociona una chaqueta <em>oversize</em> y la prenda se vuelve tendencia entre jóvenes en redes sociales.
               tr.bg-color-white
                 td <b>Culturales</b>
-                td Incluyen valores, normas sociales, tradiciones y estilos de vida compartidos por una comunidad o grupo social. Estos elementos influyen en la forma en que las personas perciben la moda y en el significado simbólico de la vestimenta
-                td Contribuyen a la construcción de identidad a través del vestuario, determinando qué estilos son aceptados, valorados o asociados a determinados grupos sociales o movimientos culturales
-                td Una marca lanza una colección inspirada en estética latinoamericana que conecta con consumidores que valoran la identidad cultural en la moda
+                td Incluyen valores, normas sociales, tradiciones y estilos de vida compartidos por una comunidad o grupo social. Estos elementos influyen en la forma en que las personas perciben la moda y en el significado simbólico de la vestimenta.
+                td Contribuyen a la construcción de identidad a través del vestuario, determinando qué estilos son aceptados, valorados o asociados a determinados grupos sociales o movimientos culturales.
+                td Una marca lanza una colección inspirada en estética latinoamericana que conecta con consumidores que valoran la identidad cultural en la moda.
               tr.bg-color-8
                 td <b>Personales</b>
-                td Comprenden características individuales del consumidor como edad, ocupación, ingresos, etapa del ciclo de vida, personalidad y estilo personal. Estas variables condicionan tanto la capacidad de compra como las preferencias estéticas
-                td Determinan la capacidad de compra, frecuencia de adquisición y elección de categorías de producto, ya que diferentes perfiles de consumidores buscan estilos, precios y funcionalidades distintas
-                td Un profesional joven con ingresos medios compra ropa de oficina moderna que combina formalidad con estilo contemporáneo
+                td Comprenden características individuales del consumidor como edad, ocupación, ingresos, etapa del ciclo de vida, personalidad y estilo personal. Estas variables condicionan tanto la capacidad de compra como las preferencias estéticas.
+                td Determinan la capacidad de compra, frecuencia de adquisición y elección de categorías de producto, ya que diferentes perfiles de consumidores buscan estilos, precios y funcionalidades distintas.
+                td Un profesional joven con ingresos medios compra ropa de oficina moderna que combina formalidad con estilo contemporáneo.
 
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema4/9.svg").mx-auto
         .col-lg
-          p.mb-0 <b><em>Insight</em></b>. La empresa <b>Distrito Trend</b> Lab analizó variables psicográficas y conductuales de su audiencia digital, identificando una fuerte afinidad hacia tendencias urbanas difundidas por creadores de contenido. Con base en este análisis, implementó estrategias de <em>marketing</em> de influencia y colaboraciones con microinfluencers, esta acción permitió fortalecer la identificación de la marca con su público objetivo y aumentar el tráfico hacia su <em>e-commerce</em> en 48 %.
+          p.mb-0 <b><em>Insight</em></b>. La empresa <b>Distrito Trend Lab</b> analizó variables psicográficas y conductuales de su audiencia digital, identificando una fuerte afinidad hacia tendencias urbanas difundidas por creadores de contenido. Con base en este análisis, implementó estrategias de <em>marketing</em> de influencia y colaboraciones con <em>microinfluencers</em>, esta acción permitió fortalecer la identificación de la marca con su público objetivo y aumentar el tráfico hacia su <em>e-commerce</em> en 48 %.
     
 
     .row.justify-content-center.align-items-center.mb-5
@@ -141,7 +141,7 @@
             img.d-lg-flex.d-none(src="@/assets/curso/tema4/11.png").mx-auto
           .col-lg
             h5 Pregunta de aplicación
-            p.mb-0 ¿Cuál variable priorizarías para una marca de moda dirigida a la Generación Z y por qué?
+            p.mb-0 ¿Cuál variable priorizaría para una marca de moda dirigida a la Generación Z y por qué?
     
     separador
     
@@ -158,11 +158,11 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 1.
+          h5 Figura 10.
           span Aplicaciones del comportamiento del consumidor en <em>marketing</em>
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/13.png", alt="La figura muestra  cómo el análisis del comportamiento del consumidor se aplica en diferentes áreas estratégicas del marketing.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/13-1.png", alt="La figura muestra  cómo el análisis del comportamiento del consumidor se aplica en diferentes áreas estratégicas del marketing.")
-        figcaption Fuente: SENA, 2026 
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/13.png", alt="Presenta las principales aplicaciones del comportamiento del consumidor en marketing: diseño de productos, comunicación, experiencia del cliente y fidelización, mostrando cómo el conocimiento del consumidor contribuye a mejorar los resultados de la estrategia comercial. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/13-1.png", alt="Presenta las principales aplicaciones del comportamiento del consumidor en marketing: diseño de productos, comunicación, experiencia del cliente y fidelización, mostrando cómo el conocimiento del consumidor contribuye a mejorar los resultados de la estrategia comercial. ")
+        figcaption Nota. SENA, (2026). 
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -180,7 +180,7 @@
           div(titulo="Comunicación")
             p.ms-5 Otra aplicación se encuentra en la comunicación, donde comprender los intereses y estilos de vida del público permite crear mensajes más personalizados y relevantes. Esto facilita una mayor conexión emocional con la audiencia. En moda, por ejemplo, una marca puede diseñar campañas en redes sociales alineadas con el estilo de vida de su segmento objetivo para aumentar el <em>engagement</em>. 	
           div(titulo="Experiencia del cliente")
-            p.ms-5 El comportamiento del consumidor también se aplica en la experiencia del cliente, especialmente en la optimización del <em>customer journey</em>. Analizar cómo los usuarios interactúan con la marca permite mejorar procesos y reducir fricciones en la compra. En moda, esto puede implicar optimizar la navegación de una tienda online con filtros por talla, estilo o tendencia.
+            p.ms-5 El comportamiento del consumidor también se aplica en la experiencia del cliente, especialmente en la optimización del <em>customer journey</em>. Analizar cómo los usuarios interactúan con la marca permite mejorar procesos y reducir fricciones en la compra. En moda, esto puede implicar optimizar la navegación de una tienda <em>online</em> con filtros por talla, estilo o tendencia.
           div(titulo="Fidelización")
             p.ms-5 Finalmente, el análisis del consumidor se utiliza en estrategias de fidelización, orientadas a fortalecer la relación entre la marca y el cliente. Programas de beneficios o experiencias exclusivas pueden incentivar la recompra. Por ejemplo, una marca de moda puede ofrecer acceso anticipado a nuevas colecciones para clientes frecuentes.
     
@@ -224,7 +224,7 @@
     .row.justify-content-center
       .col-lg-8
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 8.
+          h5 Tabla 11.
           span Tipos de <em>influencers</em> y su impacto en el sistema moda
         .tabla-a.color-secundario.mb-5.tbl
           table
@@ -282,7 +282,7 @@
     .row.justify-content-center
       .col-lg-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 9.
+          h5 Tabla 12.
           span Rasgos del consumidor digital de moda
         .tabla-a.color-secundario.mb-5.tbl
           table
@@ -296,24 +296,24 @@
             tbody
               tr.bg-color-white
                 td <b>Hiperconectado</b>
-                td El consumidor interactúa constantemente con múltiples plataformas digitales como redes sociales, tiendas <em>online</em>, <em>marketplaces</em> y aplicaciones móviles. Consulta información desde diferentes dispositivos y espera una experiencia fluida entre canales
-                td Las marcas deben desarrollar estrategias omnicanal, integrando redes sociales, <em>e-commerce</em> y tiendas físicas para ofrecer una experiencia coherente en todos los puntos de contacto
-                td Un cliente descubre una chaqueta en Instagram, revisa detalles en la tienda <em>online</em> y finalmente la compra desde su celular
+                td El consumidor interactúa constantemente con múltiples plataformas digitales como redes sociales, tiendas <em>online</em>, <em>marketplaces</em> y aplicaciones móviles. Consulta información desde diferentes dispositivos y espera una experiencia fluida entre canales.
+                td Las marcas deben desarrollar estrategias omnicanal, integrando redes sociales, <em>e-commerce</em> y tiendas físicas para ofrecer una experiencia coherente en todos los puntos de contacto.
+                td Un cliente descubre una chaqueta en Instagram, revisa detalles en la tienda <em>online</em> y finalmente la compra desde su celular.
               tr.bg-color-8
                 td <b>Informado</b>
-                td Antes de realizar una compra, el consumidor busca reseñas, comparaciones, opiniones de otros usuarios y contenido de creadores digitales. La disponibilidad de información influye en su percepción de confianza hacia la marca
-                td Las empresas deben promover transparencia en información de producto, mostrar reseñas de clientes y ofrecer contenido claro sobre materiales, calidad o procesos de producción
-                td Una marca de moda sostenible publica información sobre los materiales reciclados de sus prendas y testimonios de clientes en su sitio web
+                td Antes de realizar una compra, el consumidor busca reseñas, comparaciones, opiniones de otros usuarios y contenido de creadores digitales. La disponibilidad de información influye en su percepción de confianza hacia la marca.
+                td Las empresas deben promover transparencia en información de producto, mostrar reseñas de clientes y ofrecer contenido claro sobre materiales, calidad o procesos de producción.
+                td Una marca de moda sostenible publica información sobre los materiales reciclados de sus prendas y testimonios de clientes en su sitio web.
               tr.bg-color-white
                 td <b>Exigente</b>
-                td El consumidor evalúa no solo el producto, sino también la experiencia completa de compra, incluyendo tiempos de entrega, atención al cliente, facilidad de pago y servicio postventa
-                td Las marcas deben garantizar altos estándares de calidad en la experiencia del cliente, optimizando logística, servicio y procesos digitales
-                td Un comprador elige una tienda de moda <em>online</em> que ofrece envíos rápidos, devoluciones gratuitas y atención inmediata por <em>chat</em>
+                td El consumidor evalúa no solo el producto, sino también la experiencia completa de compra, incluyendo tiempos de entrega, atención al cliente, facilidad de pago y servicio postventa.
+                td Las marcas deben garantizar altos estándares de calidad en la experiencia del cliente, optimizando logística, servicio y procesos digitales.
+                td Un comprador elige una tienda de moda <em>online</em> que ofrece envíos rápidos, devoluciones gratuitas y atención inmediata por <em>chat</em>.
               tr.bg-color-8
                 td <b>Experiencial</b>
-                td Más allá del producto, el consumidor busca experiencias memorables que generen conexión emocional con la marca, ya sea a través de contenido interactivo, eventos o participación en comunidades digitales
-                td Las empresas deben desarrollar estrategias de innovación y experiencias de marca, integrando <em>storytelling</em>, contenido creativo y activaciones digitales
-                td Una marca lanza un filtro de realidad aumentada en Instagram para que los usuarios prueben virtualmente sus gafas de sol
+                td Más allá del producto, el consumidor busca experiencias memorables que generen conexión emocional con la marca, ya sea a través de contenido interactivo, eventos o participación en comunidades digitales.
+                td Las empresas deben desarrollar estrategias de innovación y experiencias de marca, integrando <em>storytelling</em>, contenido creativo y activaciones digitales.
+                td Una marca lanza un filtro de realidad aumentada en Instagram para que los usuarios prueben virtualmente sus gafas de sol.
 
     .cajon.color-acento-contenido.p-4.mb-5
       p.mb-0 Comprender estas características permite diseñar experiencias coherentes, personalizar la comunicación y fortalecer la fidelización, las marcas que ignoran la evolución del consumidor pierden relevancia rápidamente, la adaptación continua se convierte en requisito de supervivencia competitiva.
@@ -339,7 +339,7 @@
               img(src="@/assets/curso/tema4/21.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos al siguiente Podcast:
+            p Lo invitamos al siguiente pódcas:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
               texto="Comportamiento digital para el consumidor de moda"

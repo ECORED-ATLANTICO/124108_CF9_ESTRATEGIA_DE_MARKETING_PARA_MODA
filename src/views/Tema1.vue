@@ -247,9 +247,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Lectura estratégica de comentarios
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/24.svg", alt="la figura muestra la lectura estratégica de los comentarios.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/24-1.svg", alt="la figura muestra la lectura estratégica de los comentarios.")
-        figcaption Fuente: SENA, 2026.
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/24.svg", alt="La imagen presenta cuatro recuadros de colores organizados horizontalmente, cada uno representa una categoría de análisis de contenidos. El primer recuadro, Altos + positivos, indica que existe una alta conexión con la audiencia y recomienda potenciar ese contenido. El segundo, Altos + negativos, señala un alto riesgo reputacional y la necesidad de realizar una gestión inmediata para corregir errores. El tercero, Bajos + alto alcance, explica que el contenido tiene poco carácter conversacional y requiere ajustar el copy. El cuarto, Bajo general, indica una baja implicación de la audiencia y recomienda revisar la estrategia de contenidos. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/24-1.svg", alt="La imagen presenta cuatro recuadros de colores organizados horizontalmente, cada uno representa una categoría de análisis de contenidos. El primer recuadro, Altos + positivos, indica que existe una alta conexión con la audiencia y recomienda potenciar ese contenido. El segundo, Altos + negativos, señala un alto riesgo reputacional y la necesidad de realizar una gestión inmediata para corregir errores. El tercero, Bajos + alto alcance, explica que el contenido tiene poco carácter conversacional y requiere ajustar el copy. El cuarto, Bajo general, indica una baja implicación de la audiencia y recomienda revisar la estrategia de contenidos.")
+        figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up") 
@@ -308,7 +308,7 @@
               img(src="@/assets/curso/tema1/30.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Aplicación en el Sistema Moda
-            p.mb-0 En el Sistema Moda, las historias funcionan especialmente bien para humanizar la marca y mostrar procesos creativos, contenidos como pruebas de vestuario, empaques o encuestas rápidas suelen generar alta interacción. La gestión estratégica de <em>stories</em> permite complementar el contenido del feed y fortalecer la relación con la audiencia.
+            p.mb-0 En el Sistema Moda, las historias funcionan especialmente bien para humanizar la marca y mostrar procesos creativos, contenidos como pruebas de vestuario, empaques o encuestas rápidas suelen generar alta interacción. La gestión estratégica de <em>stories</em> permite complementar el contenido del <em>feed</em> y fortalecer la relación con la audiencia.
     
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
@@ -339,7 +339,7 @@
             p.ms-5.p.mb-0 <b>Conversación</b>: se utiliza para activar comunidad, validar intereses y generar relaciones más cercanas. En moda, es clave para recibir <em>feedback</em> sobre productos, tallas o preferencias de estilo. También nutre leads cualificados.
           div(titulo="Clics")
             p.ms-5 Número de veces que los usuarios hacen clic en enlaces, <em>stickers</em> de producto o llamados a la acción dentro de la historia. Indica intención activa del usuario.
-            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el Sistema Moda, es fundamental para medir impacto de drops, promociones y lanzamientos.
+            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el Sistema Moda, es fundamental para medir impacto de <em>drops</em>, promociones y lanzamientos.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -519,7 +519,7 @@
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/12.svg").mx-auto
             .col-lg
-              p.mb-0 <b><em>Insight</em></b>. La marca <b>Nova Moda Channel</b> lanzó un boletín semanal de tendencias y logró aumentar sus suscriptores en 52 % en seis meses, generando además un incremento en ventas recurrentes.
+              p.mb-0 <b><em>Insight</em></b>. La marca <b>Raíz Street Wear</b> priorizó contenido educativo sobre cuidado de prendas en lugar de promociones agresivas, aunque el crecimiento fue más gradual, logró aumentar seguidores de alta calidad y mejorar la tasa de conversión en 22 %.
     
     .row.justify-content-center
       .col-lg-10
@@ -531,9 +531,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Lectura estratégica de seguidores
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/50.png", alt="la figura muestra la Lectura estratégica de seguidores.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/50-1.png", alt="la figura muestra la Lectura estratégica de seguidores.")
-        figcaption Fuente: SENA, 2026   
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/50.png", alt="Figura que presenta cuatro escenarios de crecimiento de una audiencia. Los escenarios son: crecimiento orgánico sostenido, crecimiento abrupto sin engagement, estancamiento y alta rotación, cada uno acompañado de una breve interpretación y una recomendación estratégica. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/50-1.png", alt="Figura que presenta cuatro escenarios de crecimiento de una audiencia. Los escenarios son: crecimiento orgánico sostenido, crecimiento abrupto sin engagement, estancamiento y alta rotación, cada uno acompañado de una breve interpretación y una recomendación estratégica. ")
+        figcaption Nota. SENA, (2026).   
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -598,7 +598,7 @@
               tr.bg-color-8
                 td <b>Pagado</b>
                 td Proviene de la inversión en publicidad digital dentro de plataformas como Meta Ads o TikTok Ads. La visibilidad se amplifica mediante segmentación definida, presupuesto y optimización de campañas.
-                td Escalamiento: se utiliza para ampliar el alcance de contenidos que ya demostraron tracción orgánica, acelerar lanzamientos y captar nuevas audiencias. En moda, es clave para impulsar drops, temporadas y campañas comerciales.
+                td Escalamiento: se utiliza para ampliar el alcance de contenidos que ya demostraron tracción orgánica, acelerar lanzamientos y captar nuevas audiencias. En moda, es clave para impulsar <em>drops</em>, temporadas y campañas comerciales.
               tr.bg-color-white
                 td <b>Viral</b>
                 td Surge cuando los propios usuarios comparten el contenido de forma masiva, generando una propagación exponencial no controlada directamente por la marca. Se apoya en alto <em>engagement</em>, valor emocional y efecto red.
@@ -649,9 +649,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
           span Tipos de métricas digitales
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/43.svg", alt="la figura nos presenta los tipos de métricas digitales.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/44.svg", alt="la figura nos presenta los tipos de métricas digitales.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/43.svg", alt="Tipos de métricas digitales. Presenta tres categorías de métricas: alcance, engagement y conversión, indicando para cada una su definición, un ejemplo y su importancia en la evaluación del desempeño de contenidos digitales.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/44.svg", alt="Tipos de métricas digitales. Presenta tres categorías de métricas: alcance, engagement y conversión, indicando para cada una su definición, un ejemplo y su importancia en la evaluación del desempeño de contenidos digitales.")
+        figcaption Nota. SENA, (2026).
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -691,7 +691,7 @@
                 td Un anuncio de la nueva colección tuvo 10.000 visualizaciones y 300 clics al <em>e-commerce</em>, logrando un CTR del 3 %.
                 td Conversión
               tr.bg-color-8
-                td <b>Engagement por publicación</b>
+                td <b><em>Engagement</em> por publicación</b>
                 td Promedio de interacciones que recibe cada publicación individual dentro de un periodo determinado. Permite identificar contenidos de alto rendimiento.
                 td Un <em>reel</em> de <em>outfits</em> urbanos genera 1.200 interacciones, superando el promedio de publicaciones de la marca.
                 td <em>Engagement</em>
@@ -708,7 +708,7 @@
               tr.bg-color-white
                 td <b>Ratio de guardados</b>
                 td Proporción de usuarios que guardan una publicación para verla más tarde. Indica alto valor o utilidad del contenido.
-                td Un post con “10 ideas de outfits con blazer” es guardado por 350 usuarios.
+                td Un <em>post</em> con “10 ideas de <em>outfits</em> con <em>blazer”</em> es guardado por 350 usuarios.
                 td <em>Engagement</em>
               tr.bg-color-8
                 td <b>Tasa de abandono</b>
@@ -716,14 +716,14 @@
                 td Durante una semana, una marca pierde 120 seguidores tras publicar contenido excesivamente promocional.
                 td Audiencia
               tr.bg-color-white
-                td <b>Tasa de click en perfil</b>
+                td <b>Tasa de <em>click</em> en perfil</b>
                 td Porcentaje de usuarios que visitan el perfil de la marca después de ver una publicación o anuncio. Indica interés por conocer más sobre la marca.
                 td Un <em>reel</em> de lanzamiento lleva a que 800 usuarios visiten el perfil de la marca de moda.
                 td Consideración
               tr.bg-color-8
                 td <b>Tasa de interacción en historias</b>
                 td Proporción de usuarios que responden, reaccionan o interactúan con historias respecto al número de visualizaciones.
-                td Una secuencia de historias sobre un nuevo drop genera 150 respuestas de 1.500 visualizaciones.
+                td Una secuencia de historias sobre un nuevo <em>drop</em> genera 150 respuestas de 1.500 visualizaciones.
                 td <em>Engagement</em>
               tr.bg-color-white
                 td <b>Tráfico social al sitio web</b>
@@ -832,45 +832,45 @@
                 th.bg-color-7 Gratuita
             tbody
               tr.bg-color-white
-                td <b><em>Google Analytics</em></b>
+                td <b>Google Analytics</b>
                 td Permite analizar tráfico web, comportamiento de usuarios y conversiones
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://developers.google.com/analytics?hl=es-419" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
-                      p <em>Google Analytics | Google for Developers</em>
+                      p Google Analytics | <em>Google for Developers</em>
         
                 td Sí
               tr.bg-color-8
-                td <b><em>Business Suite</em></b>
+                td <b>Business Suite</b>
                 td Facilita el monitoreo de métricas en Facebook e Instagram
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://www.facebook.com/business/tools/meta-business-suite/" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
-                      p <em>Meta Business Suite</em>: Administrar Facebook e Instagram en un solo lugar | <em>Meta for Business</em>
+                      p Meta Business Suite: Administrar Facebook e Instagram en un solo lugar | <em>Meta for Business</em>
                 td Sí
               tr.bg-color-white
-                td <b><em>Hootsuite Analytics</em></b>
+                td <b>Hootsuite Analytics</b>
                 td Ofrece datos sobre interacciones y rendimiento de publicaciones
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://www.hootsuite.com/es/platform/analytics" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
-                      p <em>Social Media Analytics Tools - Hootsuite Analytics</em>
+                      p <em>Social Media Analytics Tools</em> - Hootsuite Analytics
                 td No, pero se cuenta con periodo de prueba
               tr.bg-color-8
-                td <b><em>SEMrush</em></b>
+                td <b>SEMrush</b>
                 td Ideal para el análisis de posicionamiento SEO y <em>marketing</em> digital
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://es.semrush.com/" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
-                      p <em>Semrush</em>, el <em>marketing online</em> puede ser fácil
+                      p Semrush, el <em>marketing online</em> puede ser fácil
                 td No, pero se cuenta con periodo de prueba
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
@@ -885,7 +885,7 @@
         figure
           img(src="@/assets/curso/tema1/67.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
-        p.mb-0(data-aos="fade-right") Desde el enfoque técnico, la analítica digital se caracteriza por el uso de <em>dashboards</em>, integración de fuentes de datos y monitoreo en tiempo real. Sus funciones principales incluyen detectar patrones de comportamiento, evaluar el rendimiento de campañas y anticipar tendencias del consumidor, no obstante, la interpretación incorrecta de los datos puede conducir a decisiones erróneas. La analítica exige criterio estratégico además de herramientas tecnológicas.
+        p(data-aos="fade-right") Desde el enfoque técnico, la analítica digital se caracteriza por el uso de <em>dashboards</em>, integración de fuentes de datos y monitoreo en tiempo real. Sus funciones principales incluyen detectar patrones de comportamiento, evaluar el rendimiento de campañas y anticipar tendencias del consumidor, no obstante, la interpretación incorrecta de los datos puede conducir a decisiones erróneas. La analítica exige criterio estratégico además de herramientas tecnológicas.
         .cajon.color-acento-contenido.p-4
           p.mb-0 En el sistema moda, la analítica permite identificar qué colecciones generan mayor interés, qué formatos visuales convierten mejor y qué segmentos responden con mayor rentabilidad. Las marcas que desarrollan cultura analítica optimizan su inversión publicitaria y fortalecen la experiencia del cliente, la analítica no sustituye la creatividad, pero la orienta con precisión.
     
@@ -902,7 +902,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 ¿Qué es un <em>insight</em>? ¿Cómo encontrar <em>insights</em>?
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del canal de Socialmood, especializado en temas de social media y comunicación digital, donde nos brinda una explicación del significado de <em>insight</em> y cómo encontrarlos. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del canal de Socialmood, especializado en temas de social media y comunicación digital, donde nos brinda una explicación del significado de <em>insight</em> y cómo encontrarlos. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/_FS9hxSIDwY?si=9LJC9GO04BnFbqeY " target="_blank")
                     span Ir al video
@@ -1010,9 +1010,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Equilibrio estratégico de publicación en redes sociales 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/73.png", alt="La figura muestra la importancia de gestionar estratégicamente la frecuencia de publicaciones en redes sociales en el sistema moda. ")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/73-1.png", alt="La figura muestra la importancia de gestionar estratégicamente la frecuencia de publicaciones en redes sociales en el sistema moda. ")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/73.png", alt="Ilustración de una balanza que representa la importancia de mantener una frecuencia equilibrada de publicaciones en redes sociales. La imagen compara los efectos de publicar muy poco y publicar en exceso, destacando que un equilibrio favorece la visibilidad y la percepción de la marca.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/73-1.png", alt="Ilustración de una balanza que representa la importancia de mantener una frecuencia equilibrada de publicaciones en redes sociales. La imagen compara los efectos de publicar muy poco y publicar en exceso, destacando que un equilibrio favorece la visibilidad y la percepción de la marca.")
+        figcaption Nota. SENA, (2026).
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -1036,9 +1036,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Riesgos y recomendaciones en la frecuencia de publicación 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/75.png", alt="la figura muestra los riesgos y recomendaciones en la frecuencia de publicación.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/75-1.png", alt="la figura muestra los riesgos y recomendaciones en la frecuencia de publicación.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/75.png", alt="Figura que presenta cuatro niveles de frecuencia de publicación en redes sociales: muy baja, óptima, muy alta e irregular. Para cada nivel se describen los riesgos asociados y una recomendación para mejorar la estrategia de contenidos. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/75-1.png", alt="Figura que presenta cuatro niveles de frecuencia de publicación en redes sociales: muy baja, óptima, muy alta e irregular. Para cada nivel se describen los riesgos asociados y una recomendación para mejorar la estrategia de contenidos. ")
+        figcaption Nota. SENA, (2026).
   
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8(data-aos="fade-up") 
@@ -1061,7 +1061,7 @@
               img(src="@/assets/curso/tema1/77.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos al siguiente Podcast:
+            p Lo invitamos al siguiente pódcas:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
               texto="Desempeño estratégico en comunidades digitales"

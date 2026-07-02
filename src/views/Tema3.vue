@@ -56,7 +56,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Segmentación de mercado
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, el cual explica qué es la segmentación del mercado y por qué es clave en estrategias comerciales, presenta criterios para dividir el mercado en grupos de clientes con características similares. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, el cual explica qué es la segmentación del mercado y por qué es clave en estrategias comerciales, presenta criterios para dividir el mercado en grupos de clientes con características similares. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=DEFpEXL8ebM  " target="_blank")
                     span Ir al video
@@ -104,7 +104,7 @@
           span Técnicas de segmentación en el sistema moda
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/10.svg", alt="La ilustración muestra las técnicas de segmentación en el Sistema Moda: Tradicional •	Variables demográficas (edad, género, ingresos) •	Variables geográficas (país, ciudad, región).  •	Variables psicográficas (estilo de vida, valores, intereses). Clústeres de datos •	Agrupación de clientes mediante análisis estadístico o algoritmos. •	Identificación de patrones de comportamiento de compra. •	Uso de herramientas de analítica y big data para segmentar audiencias. Microsegmentación •	Segmentos muy específicos basados en comportamiento digital. •	Personalización de mensajes y campañas para pequeños grupos. •	Uso de datos de navegación, historial de compras e interacción en redes. Nichos específicos •	Identificación de mercados pequeños con necesidades particulares. •	Alta especialización del producto o propuesta de valor. •	Menor competencia y mayor fidelización del cliente.")
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/10-1.svg", alt="La ilustración muestra las técnicas de segmentación en el Sistema Moda: Tradicional •	Variables demográficas (edad, género, ingresos) •	Variables geográficas (país, ciudad, región).  •	Variables psicográficas (estilo de vida, valores, intereses). Clústeres de datos •	Agrupación de clientes mediante análisis estadístico o algoritmos. •	Identificación de patrones de comportamiento de compra. •	Uso de herramientas de analítica y big data para segmentar audiencias. Microsegmentación •	Segmentos muy específicos basados en comportamiento digital. •	Personalización de mensajes y campañas para pequeños grupos. •	Uso de datos de navegación, historial de compras e interacción en redes. Nichos específicos •	Identificación de mercados pequeños con necesidades particulares. •	Alta especialización del producto o propuesta de valor. •	Menor competencia y mayor fidelización del cliente.")
-        figcaption Fuente: SENA, 2026
+        figcaption Nota. SENA, (2026).
     
     .bg-color-9.tarjeta.p-4.mb-5
       p.mb-0 En el sistema moda, la microsegmentación ha ganado protagonismo debido al crecimiento del comercio electrónico y la analítica avanzada, las marcas que combinan técnicas tradicionales con análisis de datos logran campañas altamente personalizadas y mejor retorno de inversión. La elección de la técnica debe responder al tamaño de la empresa, disponibilidad de datos y objetivos estratégicos.
@@ -126,9 +126,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 8.
           span Variables de segmentación de mercado
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/12.svg", alt="la figura presenta de forma visual los criterios utilizados para dividir un mercado en grupos de consumidores con características similares.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/12-1.svg", alt="la figura presenta de forma visual los criterios utilizados para dividir un mercado en grupos de consumidores con características similares.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/12.svg", alt="Presenta las principales variables de segmentación de mercado: demográficas, geográficas, conductuales y psicográficas. Explica que la combinación de estas variables permite comprender mejor al público objetivo y diseñar estrategias de marketing más efectivas.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/12-1.svg", alt="Presenta las principales variables de segmentación de mercado: demográficas, geográficas, conductuales y psicográficas. Explica que la combinación de estas variables permite comprender mejor al público objetivo y diseñar estrategias de marketing más efectivas.")
+        figcaption Nota. SENA, (2026).
     
     .bg-color-9.tarjeta.p-4.mb-5
       p.mb-0 En el sistema moda, las variables psicográficas y conductuales han ganado relevancia debido al carácter simbólico de la moda, comprender aspiraciones, identidad y frecuencia de compra permite diseñar colecciones más pertinentes. Las marcas que integran múltiples variables logran segmentaciones más robustas y campañas más efectivas.
@@ -158,15 +158,17 @@
     
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-5").mb-5
-      div(titulo="Atractivo del segmento vs. capacidad competitiva:")
+      div(titulo="Atractivo del segmento vs. capacidad competitiva")
         h5.ms-5 Matriz: atractivo del segmento vs. capacidad competitiva
         p.ms-5 Esta matriz permite evaluar qué segmentos del mercado son más interesantes y en cuáles la empresa tiene mayor capacidad para competir.
-        h5.ms-5 Caso aplicado
-        p.ms-5 Marca ficticia: Urban Pulse (marca de streetwear).
         .row.justify-content-center.mb-3
           .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 7.
+              span Caso aplicado marca ficticia: Urban Pulse (marca de <em>Streetwear</em>)
             .tabla-a.color-secundario.tbl
               table
+                caption Nota. SENA, (2026).
                 thead
                   tr
                     th.bg-color-7 Segmento de mercado
@@ -190,7 +192,7 @@
                     td Bajo
                     td Baja prioridad
                   tr.bg-color-8
-                    td Moda sostenible premium
+                    td Moda sostenible <em>premium</em>
                     td Medio
                     td Medio
                     td Segmento exploratorio
@@ -199,12 +201,14 @@
       div(titulo="Priorización de clientes")
         h5.ms-5 Matriz: priorización de clientes
         p.ms-5 Esta matriz clasifica a los clientes según su valor para el negocio, considerando variables como frecuencia de compra, gasto promedio o fidelidad.
-        h5.ms-5 Caso aplicado
-        p.ms-5 Marca de moda <em>online: NovaStyle</em>.
         .row.justify-content-center.mb-3
           .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 8.
+              span Caso aplicado marca de moda <em>online</em>: NovaStyle.
             .tabla-a.color-secundario.tbl
               table
+                caption Nota. SENA, (2026).
                 thead
                   tr
                     th.bg-color-7 Tipo de cliente
@@ -237,12 +241,14 @@
       div(titulo="Posicionamiento por valor percibido")
         h5.ms-5 Matriz: posicionamiento por valor percibido
         p.ms-5 Esta matriz permite analizar cómo los consumidores perciben una marca frente a la competencia según valor percibido y precio.
-        h5.ms-5 Caso aplicado
-        p.ms-5 Mercado: marcas de moda urbana.
         .row.justify-content-center.mb-3
           .col-lg-10
+            .titulo-sexto.color-acento-contenido
+              h5 Tabla 9.
+              span Caso aplicado Mercado: marcas de moda urbana.
             .tabla-a.color-secundario.tbl
               table
+                caption Nota. SENA, (2026).
                 thead
                   tr
                     th.bg-color-7 Marca
@@ -251,22 +257,22 @@
                     th.bg-color-7 Posicionamiento
                 tbody
                   tr.bg-color-white
-                    td <em>Urban Pulse</em>
+                    td Urban Pulse
                     td Medio
                     td Alto
                     td Moda urbana aspiracional
                   tr.bg-color-8
-                    td <em>FastStreet</em>
+                    td FastStreet
                     td Bajo
                     td Medio
                     td Moda accesible
                   tr.bg-color-white
-                    td <em>LuxeWear</em>
+                    td LuxeWear
                     td Alto
                     td Alto
-                    td Moda premium
+                    td Moda <em>premium</em>
                   tr.bg-color-8
-                    td <em>BasicStyle</em>
+                    td BasicStyle
                     td Bajo
                     td Bajo
                     td Moda básica económica
@@ -320,9 +326,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 9.
           span Niveles de clientes en el sistema moda 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/20.png", alt="la figura muestra los niveles de clientes en el Sistema Moda.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/21.png", alt="la figura muestra los niveles de clientes en el Sistema Moda.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/20.png", alt="Figura que representa las etapas del ciclo de relación con los clientes: prospectos, clientes nuevos, clientes recurrentes y clientes leales o embajadores. Para cada etapa se indican las acciones de marketing recomendadas para fortalecer la relación con el cliente. ")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/21.png", alt="Figura que representa las etapas del ciclo de relación con los clientes: prospectos, clientes nuevos, clientes recurrentes y clientes leales o embajadores. Para cada etapa se indican las acciones de marketing recomendadas para fortalecer la relación con el cliente. ")
+        figcaption Nota. SENA, (2026).
     
     .cajon.color-acento-contenido.p-4.mb-5
       p.mb-0 En el sistema moda, comprender los niveles del cliente facilita diseñar programas de fidelización, lanzamientos exclusivos y estrategias de recompra. Las marcas que gestionan activamente su ciclo de cliente incrementan el valor de vida del consumidor (CLV). La segmentación por nivel convierte la relación comercial en un proceso estratégico de largo plazo.
@@ -386,12 +392,12 @@
     .bg-color-9.tarjeta.p-4.mb-5
       p.mb-0 En el sistema moda, las marcas que alinean sus campañas con el ciclo de vida optimizan inventarios y reducen obsolescencia, por ejemplo, las prendas en fase de madurez pueden impulsarse con promociones selectivas, mientras que en introducción requieren <em>storytelling</em> y visibilidad. La gestión del ciclo de vida fortalece la rentabilidad de las colecciones.
 
-    .bg-color-1.tarjeta.px-4.mb-5
+    .bg-color-1.tarjeta.p-4.mb-5
       .row.align-items-center
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema3/4.svg").mx-auto
         .col-lg
-          p.mb-0 <b>Ejemplo aplicado</b>. La marca <b>Nova Seasonal Wear</b> identificó que varias prendas estaban en fase de madurez y lanzó una campaña de bundles promocionales, esto permitió liquidar inventario sin afectar el posicionamiento premium.
+          p.mb-0 <b>Ejemplo aplicado</b>. La marca <b>Nova Seasonal Wear</b> identificó que varias prendas estaban en fase de madurez y lanzó una campaña de bundles promocionales, esto permitió liquidar inventario sin afectar el posicionamiento <em>premium</em>.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8(data-aos="fade-up") 
@@ -454,7 +460,7 @@
             .col-lg-8.mb-4.mb-md-0.order-1
               h4 Análisis del mercado 
               p Es el proceso de recopilación y estudio de información sobre consumidores, tendencias, competencia y entorno, con el fin de comprender cómo funciona un mercado.
-              p.mb-0 Implica analizar tendencias (fast fashion, sostenibilidad), comportamiento del consumidor (compra online, influencia de redes sociales), competidores (marcas locales e internacionales) y dinámicas del sector (temporadas, colecciones, influencers).	
+              p.mb-0 Implica analizar tendencias (<em>fast fashion</em>, sostenibilidad), comportamiento del consumidor (compra <em>online</em>, influencia de redes sociales), competidores (marcas locales e internacionales) y dinámicas del sector (temporadas, colecciones, <em>influencers</em>).	
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-4.mb-3.mb-lg-0.order-2
               figure
@@ -489,13 +495,13 @@
                   | Consumidores de lujo.
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
-                  | Moda rápida (fast fashion).
+                  | Moda rápida (<em>fast fashion</em>).
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
                   | Moda sostenible. 
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
-                  | <em>Streetwear</em> digital (influenciados por redes sociales).
+                  p.mb-0 <em>Streetwear</em> digital (influenciados por redes sociales).
               p.mb-0 Esto facilita crear contenido y estrategias digitales específicas para cada grupo.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-4.mb-3.mb-lg-0.order-2
@@ -507,7 +513,7 @@
               ul.lista-ul--color.ms-3
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
-                  | Tamaño del segmento (ej: jóvenes compradores online).
+                  p.mb-0 Tamaño del segmento (eje.: jóvenes compradores <em>online</em>).
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
                   | Capacidad de compra. 

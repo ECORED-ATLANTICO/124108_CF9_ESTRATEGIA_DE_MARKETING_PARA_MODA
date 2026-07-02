@@ -36,9 +36,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
           span Diferencia entre métrica y KPI 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/3.png", alt="La figura muestra las diferencias que existen entre métrica y KPI: ambos conceptos dentro del marketing digital aplicado al sistema moda.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/3-1.png", alt="La figura muestra las diferencias que existen entre métrica y KPI: ambos conceptos dentro del marketing digital aplicado al sistema moda.")
-        figcaption Fuente: SENA, 2026
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/3.png", alt="Imagen que compara los conceptos de métrica y KPI en marketing digital. Explica que las métricas miden datos operativos, mientras que los KPI evalúan el cumplimiento de objetivos estratégicos del negocio mediante indicadores de desempeño.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/3-1.png", alt="Imagen que compara los conceptos de métrica y KPI en marketing digital. Explica que las métricas miden datos operativos, mientras que los KPI evalúan el cumplimiento de objetivos estratégicos del negocio mediante indicadores de desempeño.")
+        figcaption Nota. SENA, (2026).
     
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
@@ -82,13 +82,13 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/7.png").mx-auto
             .col-lg
               p Define el propósito del indicador y establece qué aspecto del desempeño se desea evaluar. Permite alinear la medición con los objetivos estratégicos del negocio y orientar las decisiones de <em>marketing</em>.
-              p <b>Ejemplo en moda</b>: una marca de moda busca incrementar las ventas online de su tienda digital, especialmente durante el lanzamiento de una nueva colección de temporada.
+              p <b>Ejemplo en moda</b>: una marca de moda busca incrementar las ventas <em>online</em> de su tienda digital, especialmente durante el lanzamiento de una nueva colección de temporada.
           .row(titulo="Formula")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/8.png").mx-auto
             .col-lg
               p Determina el método matemático utilizado para calcular el indicador. Establece la relación entre las variables necesarias para medir el desempeño de manera cuantificable y comparable.
-              p <b>Ejemplo en moda</b>:  para medir la conversión en el <em>e-commerce</em> de moda se utiliza la fórmula: Ventas / número de visitas al sitio web, lo que permite conocer qué porcentaje de visitantes realiza una compra.
+              p <b>Ejemplo en moda</b>:  para medir la conversión en el <em>e-commerce</em> de moda se utiliza la fórmula: ventas / número de visitas al sitio web, lo que permite conocer qué porcentaje de visitantes realiza una compra.
           .row(titulo="Fuente de datos")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/9.png").mx-auto
@@ -100,7 +100,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/10.png").mx-auto
             .col-lg
               p Establece el periodo de tiempo en el que el indicador será medido y evaluado. Permite monitorear el desempeño de forma periódica y detectar tendencias o desviaciones.
-              p <b>Ejemplo en moda</b>: el equipo de <em>marketing</em> revisa mensualmente la tasa de conversión de la tienda online para evaluar el rendimiento de las campañas digitales.
+              p <b>Ejemplo en moda</b>: el equipo de <em>marketing</em> revisa mensualmente la tasa de conversión de la tienda <em>online</em> para evaluar el rendimiento de las campañas digitales.
           .row(titulo="Meta")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/11.png").mx-auto
@@ -149,7 +149,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Interpretación de indicadores de gestión (KPI).
-                  p.mb-0 Lo invitamos a ver el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, el cual explica qué son los KPI (<em>Key Performance Indicators</em>) y su importancia en la gestión y evaluación de procesos, muestra cómo interpretar los indicadores para analizar resultados y tomar decisiones. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, el cual explica qué son los KPI (<em>Key Performance Indicators</em>) y su importancia en la gestión y evaluación de procesos, muestra cómo interpretar los indicadores para analizar resultados y tomar decisiones. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YfJvHDuEKoQ  " target="_blank")
                     span Ir al video
@@ -202,7 +202,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema2/12.png").mx-auto
         .col-lg
-          p.mb-0  <b><em>Insigh</em></b>. La empresa <b>Élite Moda Performance</b> utilizó su KPI de conversión para redistribuir presupuesto hacia las campañas con mejor rendimiento. Esta decisión incrementó sus ventas online en 33 % sin aumentar la inversión total.
+          p.mb-0  <b><em>Insigh</em></b>. La empresa <b>Élite Moda Performance</b> utilizó su KPI de conversión para redistribuir presupuesto hacia las campañas con mejor rendimiento. Esta decisión incrementó sus ventas <em>online</em> en 33 % sin aumentar la inversión total.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -256,12 +256,12 @@
                 td <b>Tasa de conversión</b>
                 td Conversiones / Visitas x 100
                 td Indica qué porcentaje de usuarios que visitan el sitio web realizan una acción deseada, como una compra o registro. Permite evaluar la eficacia del embudo de ventas y la capacidad del sitio para transformar tráfico en clientes
-                td Una tienda online de sneakers recibe 5.000 visitas y genera 200 compras, logrando una conversión del 4 %
+                td Una tienda <em>online</em> de sneakers recibe 5.000 visitas y genera 200 compras, logrando una conversión del 4 %
               tr.bg-color-8
                 td <b><em>Engagement rate</em></b>
                 td Interacciones / Alcance x 100
                 td Mide el nivel de interacción de la audiencia con el contenido publicado. Permite evaluar la relevancia y el interés que generan las publicaciones en redes sociales
-                td Un reel de outfits urbanos alcanza 10.000 personas y recibe 800 interacciones, generando un <em>engagement</em> del 8 %
+                td Un <em>reel</em> de <em>outfits</em> urbanos alcanza 10.000 personas y recibe 800 interacciones, generando un <em>engagement</em> del 8 %
               tr.bg-color-white
                 td <b>ROAS</b>
                 td Ingresos / inversión publicitaria
