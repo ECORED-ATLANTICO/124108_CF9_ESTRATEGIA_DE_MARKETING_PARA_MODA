@@ -20,7 +20,7 @@ export default {
       tema: 'Analítica del rendimiento digital.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar la comprensión sobre métricas, KPI, segmentación y comportamiento del consumidor en el Sistema Moda.',
+        '<b> Objetivo:</b> verificar la comprensión sobre métricas, KPI, segmentación y comportamiento del consumidor en el sistema moda.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -269,7 +269,7 @@ export default {
         {
           id: 8,
           texto:
-            '¿Qué característica define al consumidor digital actual dentro del Sistema Moda?',
+            '¿Qué característica define al consumidor digital actual dentro del sistema moda?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
@@ -444,7 +444,7 @@ export default {
         {
           id: 13,
           texto:
-            '¿Qué ventaja ofrece el <em>remarketing</em> en campañas digitales del Sistema Moda?',
+            '¿Qué ventaja ofrece el <em>remarketing</em> en campañas digitales del sistema moda?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -549,7 +549,7 @@ export default {
         {
           id: 16,
           texto:
-            '¿Qué característica posee un cliente considerado leal dentro del Sistema Moda?',
+            '¿Qué característica posee un cliente considerado leal dentro del sistema moda?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
@@ -714,7 +714,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Eliminar la necesidad de segmentar mercados en el Sistema Moda empresarial.',
+                'Eliminar la necesidad de segmentar mercados en el sistema moda empresarial.',
               esCorrecta: false,
             },
           ],

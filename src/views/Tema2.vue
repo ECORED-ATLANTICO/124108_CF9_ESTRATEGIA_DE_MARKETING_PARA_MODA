@@ -235,7 +235,7 @@
         p(data-aos="fade-right") La forma de cálculo de los KPI corresponde a la fórmula matemática que permite cuantificar el desempeño de una acción digital, la precisión en el cálculo garantiza que las decisiones se basen en datos confiables, un error en la fórmula puede distorsionar la lectura del negocio, por ello, la estandarización de los cálculos es una práctica esencial en la analítica digital.
     
         .cajon.color-acento-contenido.p-4
-          p.mb-0 La siguiente tabla reúne algunas fórmulas utilizadas para calcular KPI en entornos digitales aplicados al Sistema Moda.
+          p.mb-0 La siguiente tabla reúne algunas fórmulas utilizadas para calcular KPI en entornos digitales aplicados al sistema moda.
     
     .row.justify-content-center
       .col-lg-12
@@ -255,38 +255,38 @@
               tr.bg-color-white
                 td <b>Tasa de conversión</b>
                 td Conversiones / Visitas x 100
-                td Indica qué porcentaje de usuarios que visitan el sitio web realizan una acción deseada, como una compra o registro. Permite evaluar la eficacia del embudo de ventas y la capacidad del sitio para transformar tráfico en clientes
-                td Una tienda <em>online</em> de sneakers recibe 5.000 visitas y genera 200 compras, logrando una conversión del 4 %
+                td Indica qué porcentaje de usuarios que visitan el sitio web realizan una acción deseada, como una compra o registro. Permite evaluar la eficacia del embudo de ventas y la capacidad del sitio para transformar tráfico en clientes.
+                td Una tienda <em>online</em> de sneakers recibe 5.000 visitas y genera 200 compras, logrando una conversión del 4 %.
               tr.bg-color-8
                 td <b><em>Engagement rate</em></b>
                 td Interacciones / Alcance x 100
-                td Mide el nivel de interacción de la audiencia con el contenido publicado. Permite evaluar la relevancia y el interés que generan las publicaciones en redes sociales
-                td Un <em>reel</em> de <em>outfits</em> urbanos alcanza 10.000 personas y recibe 800 interacciones, generando un <em>engagement</em> del 8 %
+                td Mide el nivel de interacción de la audiencia con el contenido publicado. Permite evaluar la relevancia y el interés que generan las publicaciones en redes sociales.
+                td Un <em>reel</em> de <em>outfits</em> urbanos alcanza 10.000 personas y recibe 800 interacciones, generando un <em>engagement</em> del 8 %.
               tr.bg-color-white
                 td <b>ROAS</b>
                 td Ingresos / inversión publicitaria
-                td Evalúa el retorno económico generado por cada unidad monetaria invertida en publicidad digital. Permite determinar si una campaña es rentable o requiere optimización
-                td Una marca invierte $2.000 en anuncios para promocionar su colección y genera $8.000 en ventas, obteniendo un ROAS de 4
+                td Evalúa el retorno económico generado por cada unidad monetaria invertida en publicidad digital. Permite determinar si una campaña es rentable o requiere optimización.
+                td Una marca invierte $2.000 en anuncios para promocionar su colección y genera $8.000 en ventas, obteniendo un ROAS de 4.
               tr.bg-color-8
                 td <b>CTR</b>
                 td Clics / Impresiones x 100
-                td Mide el porcentaje de personas que hacen clic en un anuncio después de verlo. Permite analizar el nivel de atractivo del contenido creativo y la efectividad del mensaje publicitario
-                td Un anuncio de la nueva colección obtiene 1.200 clics sobre 40.000 impresiones, logrando un CTR del 3 %
+                td Mide el porcentaje de personas que hacen clic en un anuncio después de verlo. Permite analizar el nivel de atractivo del contenido creativo y la efectividad del mensaje publicitario.
+                td Un anuncio de la nueva colección obtiene 1.200 clics sobre 40.000 impresiones, logrando un CTR del 3 %.
               tr.bg-color-white
                 td <b>CPA (Costo por adquisición)</b>
                 td Inversión publicitaria / número de conversiones
-                td Determina cuánto cuesta adquirir un cliente o lograr una venta. Permite evaluar la eficiencia de la inversión publicitaria
-                td Una marca invierte $1.500 en anuncios y genera 75 ventas, obteniendo un CPA de $20 por cliente
+                td Determina cuánto cuesta adquirir un cliente o lograr una venta. Permite evaluar la eficiencia de la inversión publicitaria.
+                td Una marca invierte $1.500 en anuncios y genera 75 ventas, obteniendo un CPA de $20 por cliente.
               tr.bg-color-8
                 td <b>Tasa de abandono del carrito</b>
                 td Carritos abandonados / carritos creados × 100
-                td Indica el porcentaje de usuarios que agregan productos al carrito, pero no finalizan la compra. Permite identificar problemas en el proceso de compra o en la experiencia del usuario
-                td De 500 carritos creados en una tienda de ropa, 300 no finalizan la compra, generando un 60 % de abandono
+                td Indica el porcentaje de usuarios que agregan productos al carrito, pero no finalizan la compra. Permite identificar problemas en el proceso de compra o en la experiencia del usuario.
+                td De 500 carritos creados en una tienda de ropa, 300 no finalizan la compra, generando un 60 % de abandono.
               tr.bg-color-white
                 td <b>CPC (Costo por clic)</b>
                 td Inversión publicitaria / número de clics
-                td Indica cuánto cuesta generar tráfico hacia el sitio web a través de anuncios. Permite evaluar la eficiencia de las campañas de pauta digital
-                td Una campaña en <em>Instagram Ads</em> invierte $600 y genera 3.000 clics al <em>e-commerce</em>, logrando un CPC de $0.20
+                td Indica cuánto cuesta generar tráfico hacia el sitio web a través de anuncios. Permite evaluar la eficiencia de las campañas de pauta digital.
+                td Una campaña en <em>Instagram Ads</em> invierte $600 y genera 3.000 clics al <em>e-commerce</em>, logrando un CPC de $0.20.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8(data-aos="fade-up") 
@@ -299,7 +299,7 @@
               p.mb-0 “La disciplina para medir con honestidad es la base de cualquier crecimiento sostenible.” 
     
     .bg-color-9.tarjeta.p-4.mb-5
-      p.mb-0 Además de medir resultados mediante KPI, las estrategias digitales requieren comprender las características y necesidades de los diferentes públicos del mercado. En el siguiente capítulo se aborda la segmentación del mercado en el Sistema Moda.
+      p.mb-0 Además de medir resultados mediante KPI, las estrategias digitales requieren comprender las características y necesidades de los diferentes públicos del mercado. En el siguiente capítulo se aborda la segmentación del mercado en el sistema moda.
 
 </template>
 

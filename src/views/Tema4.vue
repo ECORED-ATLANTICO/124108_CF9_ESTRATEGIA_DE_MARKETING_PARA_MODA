@@ -100,7 +100,7 @@
                 th.bg-color-7 Tipo de variable
                 th.bg-color-7 Qué incluye
                 th.bg-color-7 Impacto en moda
-                th.bg-color-7 Ejemplo aplicado al Sistema Moda
+                th.bg-color-7 Ejemplo aplicado al sistema moda
             tbody
               tr.bg-color-white
                 td <b>Psicológicas</b>
@@ -339,7 +339,7 @@
               img(src="@/assets/curso/tema4/21.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos al siguiente pódcas:
+            p Lo invitamos al siguiente pódcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
               texto="Comportamiento digital para el consumidor de moda"

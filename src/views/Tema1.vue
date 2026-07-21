@@ -13,7 +13,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Se abordará el concepto de desempeño de la red social en el Sistema Moda, comprendiendo cómo las métricas digitales permiten analizar el impacto de las acciones de <em>marketing</em> y fortalecen la toma de decisiones estratégicas en entornos digitales.
+            p.mb-0 Se abordará el concepto de desempeño de la red social en el sistema moda, comprendiendo cómo las métricas digitales permiten analizar el impacto de las acciones de <em>marketing</em> y fortalecen la toma de decisiones estratégicas en entornos digitales.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-3.mb-3.mb-lg-0.order-lg-2
@@ -58,8 +58,8 @@
             p.ms-5 Las impresiones son acumulativas, pueden repetirse sobre el mismo usuario y dependen del alcance del algoritmo. Estas particularidades permiten identificar la frecuencia de exposición del mensaje.
           div(titulo="Lectura estratégica")
             p.ms-5 Un volumen alto de impresiones indica buena distribución del contenido, pero si no se acompaña de <em>engagement</em>, puede evidenciar debilidad creativa. La correcta lectura de este indicador evita conclusiones superficiales.
-          div(titulo="Aplicación en el Sistema Moda")
-            p.ms-5 En el Sistema Moda, las impresiones son especialmente útiles en fases de reconocimiento de marca y lanzamiento de colecciones. Permiten validar si la pauta o el contenido están logrando visibilidad suficiente.
+          div(titulo="Aplicación en el sistema moda")
+            p.ms-5 En el sistema moda, las impresiones son especialmente útiles en fases de reconocimiento de marca y lanzamiento de colecciones. Permiten validar si la pauta o el contenido están logrando visibilidad suficiente.
     
     .row.justify-content-center
       .col-lg-8
@@ -102,7 +102,7 @@
         figure
           img(src="@/assets/curso/tema1/7.png", data-aos="zoom-in")
       .col-lg-8
-        p A continuación, se aborda el indicador “me gusta” como una de las primeras señales de interacción y aceptación del contenido en redes sociales. Este indicador permite reconocer el nivel de afinidad estética y emocional que genera una publicación dentro del Sistema Moda.
+        p A continuación, se aborda el indicador “me gusta” como una de las primeras señales de interacción y aceptación del contenido en redes sociales. Este indicador permite reconocer el nivel de afinidad estética y emocional que genera una publicación dentro del sistema moda.
         .bg-color-1.p-4
           .row.align-items-center
             .col-lg-auto.mb-lg-0
@@ -118,8 +118,8 @@
               figure
                 img(src='@/assets/curso/tema1/8.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Función en el Sistema Moda
-              p.mb-0 En el Sistema Moda este indicador funciona como señal inicial de aceptación estética y emocional del contenido, aunque no implica una intención de compra directa, sí refleja afinidad con la propuesta visual de la marca, por ello, constituye un termómetro temprano del atractivo del contenido.
+              h4 Función en el sistema moda
+              p.mb-0 En el sistema moda este indicador funciona como señal inicial de aceptación estética y emocional del contenido, aunque no implica una intención de compra directa, sí refleja afinidad con la propuesta visual de la marca, por ello, constituye un termómetro temprano del atractivo del contenido.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-4.mb-3.mb-lg-0.order-2
               figure
@@ -139,8 +139,8 @@
               figure
                 img(src='@/assets/curso/tema1/11.png', alt='Imagen de acompañamiento')
             .col-lg-8.mb-4.mb-md-0.order-1
-              h4 Aplicación en el Sistema Moda
-              p.mb-0 En el Sistema Moda, donde la estética tiene alto peso, los “me gusta” permiten evaluar tendencias visuales, estilos de fotografía y aceptación de colecciones. Las marcas que monitorean esta métrica pueden ajustar rápidamente su línea creativa, no obstante, la gestión madura debe trascender la vanidad métrica y enfocarse en indicadores de negocio.
+              h4 Aplicación en el sistema moda
+              p.mb-0 En el sistema moda, donde la estética tiene alto peso, los “me gusta” permiten evaluar tendencias visuales, estilos de fotografía y aceptación de colecciones. Las marcas que monitorean esta métrica pueden ajustar rápidamente su línea creativa, no obstante, la gestión madura debe trascender la vanidad métrica y enfocarse en indicadores de negocio.
       
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
@@ -185,7 +185,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/16.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los comentarios representan una de las formas de interacción más valiosas dentro de las comunidades digitales, ya que permiten reconocer opiniones, percepciones y niveles de involucramiento de la audiencia frente al contenido publicado. En el Sistema Moda, esta métrica aporta información relevante para comprender la relación entre la marca y su comunidad digital.
+        p.mb-0 Los comentarios representan una de las formas de interacción más valiosas dentro de las comunidades digitales, ya que permiten reconocer opiniones, percepciones y niveles de involucramiento de la audiencia frente al contenido publicado. En el sistema moda, esta métrica aporta información relevante para comprender la relación entre la marca y su comunidad digital.
 
     .cajon.color-acento-contenido.p-4.mb-5
       p.mb-0 A continuación, se presentan algunos elementos clave relacionados con la interpretación estratégica de los comentarios en redes sociales.
@@ -202,11 +202,11 @@
             .col-lg
               h4 Interacción profunda
               p.mb-0 Los comentarios representan una forma de interacción profunda mediante la cual los usuarios expresan opiniones, preguntas o reacciones frente al contenido publicado.
-          .row.tarjeta.color-acento-botones--borde.p-4(titulo="Valor estratégico en el Sistema Moda")
+          .row.tarjeta.color-acento-botones--borde.p-4(titulo="Valor estratégico en el sistema moda")
             .col-lg-auto.mb-lg-3
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/19.png").mx-auto
             .col-lg
-              h4 Valor estratégico en el Sistema Moda
+              h4 Valor estratégico en el sistema moda
               p.mb-0 En el sistema moda, esta métrica es especialmente valiosa porque revela el nivel de involucramiento cognitivo y emocional del público, a diferencia del “me gusta”, comentar exige mayor esfuerzo del usuario, por lo que su presencia indica interés significativo, de allí, que los comentarios son considerados un indicador cualitativo de <em>engagement</em>.
           .row.tarjeta.color-acento-botones--borde.p-4(titulo="Análisis estratégico")
             .col-lg-auto.mb-lg-3
@@ -226,11 +226,11 @@
             .col-lg
               h4 Gestión estratégica
               p.mb-0 La moderación oportuna y la respuesta estratégica son fundamentales para capitalizar su valor.
-          .row.tarjeta.color-acento-botones--borde.p-4(titulo="Aplicación en el Sistema Moda")
+          .row.tarjeta.color-acento-botones--borde.p-4(titulo="Aplicación en el sistema moda")
             .col-lg-auto.mb-lg-3
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/23.png").mx-auto
             .col-lg
-              h4 Aplicación en el Sistema Moda
+              h4 Aplicación en el sistema moda
               p.mb-0 En el sistema moda, la gestión de comentarios debe ser ágil y coherente con el tono de marca, responder preguntas sobre tallas, disponibilidad o materiales puede acelerar la decisión de compra, ignorar comentarios, en cambio, debilita la percepción de cercanía, las marcas que convierten los comentarios en conversación construyen comunidades más sólidas.
 
     .bg-color-1.tarjeta.px-4.mb-5
@@ -261,7 +261,7 @@
               p.mb-0 <b>Clave estratégica</b>.  Los comentarios no se cuentan; se gestionan estratégicamente.
     
     .bg-color-9.tarjeta.p-4.mb-5
-      p.mb-0 Además de las publicaciones permanentes y las conversaciones generadas mediante comentarios, las redes sociales cuentan con formatos de contenido efímero que permiten fortalecer la cercanía y la interacción inmediata con la audiencia. A continuación, se explora el uso estratégico de las historias dentro del Sistema Moda.
+      p.mb-0 Además de las publicaciones permanentes y las conversaciones generadas mediante comentarios, las redes sociales cuentan con formatos de contenido efímero que permiten fortalecer la cercanía y la interacción inmediata con la audiencia. A continuación, se explora el uso estratégico de las historias dentro del sistema moda.
   
     separador
     
@@ -272,14 +272,14 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text Las historias o <em>stories</em> permiten compartir contenido efímero y dinámico que fortalece la cercanía con la audiencia. En el Sistema Moda, este formato favorece la interacción inmediata y la comunicación espontánea con la comunidad digital.
+        p.banner-text Las historias o <em>stories</em> permiten compartir contenido efímero y dinámico que fortalece la cercanía con la audiencia. En el sistema moda, este formato favorece la interacción inmediata y la comunicación espontánea con la comunidad digital.
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/27.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") Las historias (<em>stories</em>) son formatos de contenido efímero que permanecen visibles por tiempo limitado y permiten una comunicación más espontánea y cercana. En el Sistema Moda, las historias se han convertido en una herramienta clave para mostrar el detrás de cámaras, lanzamientos rápidos y promociones flash, su naturaleza temporal genera sensación de urgencia y exclusividad, por ello, constituyen un formato de alto valor táctico.
+        p(data-aos="fade-right") Las historias (<em>stories</em>) son formatos de contenido efímero que permanecen visibles por tiempo limitado y permiten una comunicación más espontánea y cercana. En el sistema moda, las historias se han convertido en una herramienta clave para mostrar el detrás de cámaras, lanzamientos rápidos y promociones flash, su naturaleza temporal genera sensación de urgencia y exclusividad, por ello, constituyen un formato de alto valor táctico.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 A continuación, se presentan algunos elementos relacionados con el análisis estratégico de las historias en redes sociales.
@@ -307,8 +307,8 @@
             figure
               img(src="@/assets/curso/tema1/30.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Aplicación en el Sistema Moda
-            p.mb-0 En el Sistema Moda, las historias funcionan especialmente bien para humanizar la marca y mostrar procesos creativos, contenidos como pruebas de vestuario, empaques o encuestas rápidas suelen generar alta interacción. La gestión estratégica de <em>stories</em> permite complementar el contenido del <em>feed</em> y fortalecer la relación con la audiencia.
+            h4.mb-3 Aplicación en el sistema moda
+            p.mb-0 En el sistema moda, las historias funcionan especialmente bien para humanizar la marca y mostrar procesos creativos, contenidos como pruebas de vestuario, empaques o encuestas rápidas suelen generar alta interacción. La gestión estratégica de <em>stories</em> permite complementar el contenido del <em>feed</em> y fortalecer la relación con la audiencia.
     
     .bg-color-1.tarjeta.px-4.mb-5
       .row.align-items-center
@@ -322,7 +322,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/31.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Explore los siguientes indicadores utilizados para evaluar el desempeño de las historias en redes sociales y su aplicación estratégica dentro del Sistema Moda.
+        p.mb-0 Explore los siguientes indicadores utilizados para evaluar el desempeño de las historias en redes sociales y su aplicación estratégica dentro del sistema moda.
     
 
     .row.justify-content-center.mb-5
@@ -333,13 +333,13 @@
             p.ms-5.mb-0 <b>Interés inicial</b>: se utiliza para evaluar la capacidad de atracción del contenido, optimizar horarios de publicación y comparar el rendimiento entre diferentes tipos de historias (producto, <em>lifestyle</em>, promoción). En moda, ayuda a validar qué formatos generan mayor visibilidad.
           div(titulo="Tasa de finalización")
             p.ms-5 Porcentaje de usuarios que ven la secuencia completa de historias respecto a quienes la iniciaron. Refleja el nivel de retención y la coherencia narrativa del contenido secuencial.
-            p.ms-5.mb-0 <b>Calidad narrativa</b>: permite identificar si la historia mantiene la atención del público. Sirve para ajustar duración, ritmo visual y orden del <em>storytelling</em>. En el Sistema Moda, ayuda a optimizar secuencias de lanzamiento, <em>backstage</em> o <em>storytelling</em> de colección.
+            p.ms-5.mb-0 <b>Calidad narrativa</b>: permite identificar si la historia mantiene la atención del público. Sirve para ajustar duración, ritmo visual y orden del <em>storytelling</em>. En el sistema moda, ayuda a optimizar secuencias de lanzamiento, <em>backstage</em> o <em>storytelling</em> de colección.
           div(titulo="Respuestas")
             p.ms-5 Cantidad de mensajes directos generados a partir de la historia (reacciones, respuestas a <em>stickers</em>, preguntas). Mide la interacción conversacional y el nivel de cercanía con la audiencia.
             p.ms-5.p.mb-0 <b>Conversación</b>: se utiliza para activar comunidad, validar intereses y generar relaciones más cercanas. En moda, es clave para recibir <em>feedback</em> sobre productos, tallas o preferencias de estilo. También nutre leads cualificados.
           div(titulo="Clics")
             p.ms-5 Número de veces que los usuarios hacen clic en enlaces, <em>stickers</em> de producto o llamados a la acción dentro de la historia. Indica intención activa del usuario.
-            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el Sistema Moda, es fundamental para medir impacto de <em>drops</em>, promociones y lanzamientos.
+            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el sistema moda, es fundamental para medir impacto de <em>drops</em>, promociones y lanzamientos.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -366,7 +366,7 @@
         figure
           img(src="@/assets/curso/tema1/33.png", data-aos="zoom-in")
       .col-lg-8
-        p Los suscriptores representan una audiencia que ha decidido mantener una relación continua con la marca mediante canales digitales especializados. En el Sistema Moda, este indicador permite reconocer niveles de fidelización y compromiso sostenido con el contenido publicado.
+        p Los suscriptores representan una audiencia que ha decidido mantener una relación continua con la marca mediante canales digitales especializados. En el sistema moda, este indicador permite reconocer niveles de fidelización y compromiso sostenido con el contenido publicado.
         .bg-color-1.p-4
           .row.align-items-center
             .col-lg-auto.mb-lg-0
@@ -387,7 +387,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
             h4 Valor estratégico
-            p En el Sistema Moda, este indicador refleja el interés sostenido del público por recibir comunicaciones recurrentes, a diferencia de métricas de interacción puntual, los suscriptores evidencian compromiso de mediano y largo plazo, por ello, constituyen un activo estratégico de audiencia propia.
+            p En el sistema moda, este indicador refleja el interés sostenido del público por recibir comunicaciones recurrentes, a diferencia de métricas de interacción puntual, los suscriptores evidencian compromiso de mediano y largo plazo, por ello, constituyen un activo estratégico de audiencia propia.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/35.png', alt='Imagen de acompañamiento')
@@ -407,11 +407,11 @@
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/37.png', alt='Imagen de acompañamiento')
-      .p-3.p-md-4(titulo="Aplicación en el Sistema Moda")
+      .p-3.p-md-4(titulo="Aplicación en el sistema moda")
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-4.mb-md-0
-            h4 Aplicación en el Sistema Moda
-            p En el Sistema Moda, la gestión de suscriptores permite construir canales propios menos dependientes del algoritmo, estrategias como contenido exclusivo, <em>newsletters</em> de tendencias o lanzamientos anticipados suelen impulsar este indicador, las marcas que nutren su base de suscriptores fortalecen su autonomía digital.
+            h4 Aplicación en el sistema moda
+            p En el sistema moda, la gestión de suscriptores permite construir canales propios menos dependientes del algoritmo, estrategias como contenido exclusivo, <em>newsletters</em> de tendencias o lanzamientos anticipados suelen impulsar este indicador, las marcas que nutren su base de suscriptores fortalecen su autonomía digital.
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src='@/assets/curso/tema1/38.png', alt='Imagen de acompañamiento')
@@ -485,7 +485,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/46.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los seguidores representan uno de los indicadores más visibles dentro de las redes sociales y permiten reconocer el tamaño potencial de la audiencia de una marca. En el Sistema Moda, esta métrica aporta información relacionada con el crecimiento de comunidad y el nivel de atracción que genera el contenido digital.
+        p.mb-0 Los seguidores representan uno de los indicadores más visibles dentro de las redes sociales y permiten reconocer el tamaño potencial de la audiencia de una marca. En el sistema moda, esta métrica aporta información relacionada con el crecimiento de comunidad y el nivel de atracción que genera el contenido digital.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.mb-3.mb-lg-0.order-lg-2
@@ -498,7 +498,7 @@
               img(src="@/assets/curso/tema1/48.png", data-aos="zoom-in")
           .col-lg-8
             .bg-color-2.p-4
-              p.mb-0 Los seguidores representan el número de usuarios que han decidido vincularse a la cuenta de una marca en redes sociales para recibir sus publicaciones. En el Sistema Moda, este indicador refleja el tamaño potencial de la audiencia propia y la capacidad de atracción de la marca, no obstante, un alto número de seguidores no garantiza impacto comercial si no existe interacción real, por los cual, la lectura estratégica de esta métrica debe ir más allá del volumen.
+              p.mb-0 Los seguidores representan el número de usuarios que han decidido vincularse a la cuenta de una marca en redes sociales para recibir sus publicaciones. En el sistema moda, este indicador refleja el tamaño potencial de la audiencia propia y la capacidad de atracción de la marca, no obstante, un alto número de seguidores no garantiza impacto comercial si no existe interacción real, por los cual, la lectura estratégica de esta métrica debe ir más allá del volumen.
         .row.align-items-center.bg-color-3.p-4
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
@@ -506,7 +506,7 @@
             p.mb-0 Desde el análisis técnico, los seguidores presentan características acumulativas, dependencia del algoritmo y variabilidad según la calidad del contenido, su crecimiento puede originarse en campañas orgánicas, pauta digital o recomendaciones de la comunidad; la compra artificial de seguidores genera distorsión analítica y debilita la credibilidad de la marca, en conclusión, la calidad del seguidor —activo y alineado— es más valiosa que la cantidad.
     
     .bg-color-9.tarjeta.p-4.mb-5
-      p.mb-0 En el Sistema Moda, el crecimiento saludable de seguidores se asocia con propuestas visuales coherentes, <em>storytelling</em> consistente y valor percibido por la audiencia, las marcas que priorizan la conexión auténtica construyen comunidades más sostenibles, el objetivo estratégico no es solo crecer, sino crecer con el público correcto.
+      p.mb-0 En el sistema moda, el crecimiento saludable de seguidores se asocia con propuestas visuales coherentes, <em>storytelling</em> consistente y valor percibido por la audiencia, las marcas que priorizan la conexión auténtica construyen comunidades más sostenibles, el objetivo estratégico no es solo crecer, sino crecer con el público correcto.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -561,7 +561,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text El alcance permite identificar la cantidad de usuarios únicos que han visualizado el contenido de una marca en un periodo determinado. En el Sistema Moda, esta métrica facilita comprender la capacidad de difusión y cobertura real de las publicaciones digitales.
+        p.banner-text El alcance permite identificar la cantidad de usuarios únicos que han visualizado el contenido de una marca en un periodo determinado. En el sistema moda, esta métrica facilita comprender la capacidad de difusión y cobertura real de las publicaciones digitales.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -575,7 +575,7 @@
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/4.svg").mx-auto
             .col-lg
-              p.mb-0 La siguiente tabla presenta los principales tipos de alcance utilizados en redes sociales y su aplicación estratégica dentro del Sistema Moda.
+              p.mb-0 La siguiente tabla presenta los principales tipos de alcance utilizados en redes sociales y su aplicación estratégica dentro del sistema moda.
     
     .row.justify-content-center
       .col-lg-8
@@ -594,7 +594,7 @@
               tr.bg-color-white
                 td <b>Orgánico</b>
                 td Se genera de manera natural a partir de la distribución algorítmica y la interacción genuina de la audiencia sin inversión publicitaria. Depende de la relevancia del contenido, la afinidad con la comunidad y la consistencia editorial de la marca.
-                td Validación de contenido: permite comprobar qué formatos, mensajes y propuestas visuales conectan realmente con la audiencia. En el Sistema Moda, se usa para testear colecciones, estilos creativos y narrativa de marca antes de invertir en pauta.
+                td Validación de contenido: permite comprobar qué formatos, mensajes y propuestas visuales conectan realmente con la audiencia. En el sistema moda, se usa para testear colecciones, estilos creativos y narrativa de marca antes de invertir en pauta.
               tr.bg-color-8
                 td <b>Pagado</b>
                 td Proviene de la inversión en publicidad digital dentro de plataformas como Meta Ads o TikTok Ads. La visibilidad se amplifica mediante segmentación definida, presupuesto y optimización de campañas.
@@ -602,7 +602,7 @@
               tr.bg-color-white
                 td <b>Viral</b>
                 td Surge cuando los propios usuarios comparten el contenido de forma masiva, generando una propagación exponencial no controlada directamente por la marca. Se apoya en alto <em>engagement</em>, valor emocional y efecto red.
-                td Amplificación: permite multiplicar la visibilidad y el posicionamiento de la marca con bajo costo marginal. En el Sistema Moda, se aprovecha para potenciar tendencias, retos de estilo y contenidos altamente compartibles.
+                td Amplificación: permite multiplicar la visibilidad y el posicionamiento de la marca con bajo costo marginal. En el sistema moda, se aprovecha para potenciar tendencias, retos de estilo y contenidos altamente compartibles.
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -639,7 +639,7 @@
         figure
           img(src="@/assets/curso/tema1/56.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") Los indicadores y estadísticas integran el conjunto de métricas que permiten evaluar de forma sistemática el desempeño de una red social. En el Sistema Moda, este análisis transforma los datos en información útil para la toma de decisiones, sin un sistema de indicadores, la gestión digital se vuelve intuitiva y reactiva, por ello, la analítica estructurada constituye la base del <em>marketing</em> basado en datos.
+        p(data-aos="fade-right") Los indicadores y estadísticas integran el conjunto de métricas que permiten evaluar de forma sistemática el desempeño de una red social. En el sistema moda, este análisis transforma los datos en información útil para la toma de decisiones, sin un sistema de indicadores, la gestión digital se vuelve intuitiva y reactiva, por ello, la analítica estructurada constituye la base del <em>marketing</em> basado en datos.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 La siguiente figura presenta algunos tipos de métricas digitales utilizadas en redes sociales.
@@ -1003,7 +1003,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text La cantidad de publicaciones se refiere a la frecuencia con la que una marca comparte contenido en sus redes sociales durante un periodo determinado, en el Sistema Moda, este factor influye directamente en la visibilidad algorítmica y en la percepción de actividad de la marca. Publicar muy poco reduce presencia; publicar en exceso puede generar saturación, por ello, la frecuencia debe gestionarse estratégicamente.
+        p.banner-text La cantidad de publicaciones se refiere a la frecuencia con la que una marca comparte contenido en sus redes sociales durante un periodo determinado, en el sistema moda, este factor influye directamente en la visibilidad algorítmica y en la percepción de actividad de la marca. Publicar muy poco reduce presencia; publicar en exceso puede generar saturación, por ello, la frecuencia debe gestionarse estratégicamente.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8
@@ -1061,7 +1061,7 @@
               img(src="@/assets/curso/tema1/77.png", data-aos="zoom-in")
           .col-lg-7
             h2(data-aos="fade-left").mb-4 ¿Sabías qué?
-            p Lo invitamos al siguiente pódcas:
+            p Lo invitamos al siguiente pódcast:
             
             TarjetaAudio.color-secundario.bg-color-white.mb-3(
               texto="Desempeño estratégico en comunidades digitales"
