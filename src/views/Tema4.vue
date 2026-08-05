@@ -22,7 +22,7 @@
               img(src="@/assets/curso/tema4/2.png", data-aos="zoom-in")
           .col-lg-7.col-xl-5.mb-3.mb-lg-0
             .bg-color-2.p-3.p-lg-5 
-              p.mb-0 El comportamiento del consumidor analiza los procesos mentales, emocionales y sociales que influyen en la decisión de compra, este conocimiento permite a las marcas diseñar propuestas de valor más relevantes y experiencias de compra más efectivas, in esta comprensión, las acciones comerciales tienden a basarse en supuestos y pierden precisión estratégica.
+              p.mb-0 El comportamiento del consumidor analiza los procesos mentales, emocionales y sociales que influyen en la decisión de compra, este conocimiento permite a las marcas diseñar propuestas de valor más relevantes y experiencias de compra más efectivas, sin esta comprensión, las acciones comerciales tienden a basarse en supuestos y pierden precisión estratégica.
           .col-md-8.col-lg-5.col-xl-3.mb-3.mb-xl-0
             figure
               img(src="@/assets/curso/tema4/3.png", data-aos="zoom-in")
@@ -51,7 +51,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Comportamiento del consumidor.
-                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA,  explica el concepto de comportamiento del consumidor. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en la temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA,  explica el concepto de comportamiento del consumidor. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dhSD-ndBs6g" target="_blank")
                     span Ir al video
@@ -154,20 +154,21 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La aplicabilidad del comportamiento del consumidor al <em>marketing</em> se refiere al uso estratégico de los <em>insights</em> del cliente para diseñar productos, mensajes y experiencias más relevantes, esta aplicación permite transformar la información del consumidor en decisiones comerciales concretas, sin esta traducción práctica, el conocimiento del cliente se queda en el plano teórico, por ello, la aplicabilidad conecta la investigación con la acción.
-
+    
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 10.
           span Aplicaciones del comportamiento del consumidor en <em>marketing</em>
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/13.png", alt="Presenta las principales aplicaciones del comportamiento del consumidor en marketing: diseño de productos, comunicación, experiencia del cliente y fidelización, mostrando cómo el conocimiento del consumidor contribuye a mejorar los resultados de la estrategia comercial. ")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/13-1.png", alt="Presenta las principales aplicaciones del comportamiento del consumidor en marketing: diseño de productos, comunicación, experiencia del cliente y fidelización, mostrando cómo el conocimiento del consumidor contribuye a mejorar los resultados de la estrategia comercial. ")
-        figcaption Nota. SENA, (2026). 
+        figure.figura-calidad.mb-2
+          img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/13v.png", alt="Presenta las principales aplicaciones del comportamiento del consumidor en marketing: diseño de productos, comunicación, experiencia del cliente y fidelización, mostrando cómo el conocimiento del consumidor contribuye a mejorar los resultados de la estrategia comercial. ")
+          img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/13-1v.png", alt="Presenta las principales aplicaciones del comportamiento del consumidor en marketing: diseño de productos, comunicación, experiencia del cliente y fidelización, mostrando cómo el conocimiento del consumidor contribuye a mejorar los resultados de la estrategia comercial. ")
+        figcaption Nota. SENA, (2026).
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Areas de aplicación
+        h3.titulo-con-imagen__texto Áreas de aplicación
     
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -236,7 +237,7 @@
                 th.bg-color-7 Impacto en moda
             tbody
               tr.bg-color-white
-                td <b>Nano <em>influencers</em></b>
+                td <b>Nano<em>influencers</em></b>
                 td Comunidades pequeñas y alta cercanía con la audiencia
                 td Credibilidad y recomendación auténtica
               tr.bg-color-8

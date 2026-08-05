@@ -188,7 +188,7 @@
         p.mb-0 Los comentarios representan una de las formas de interacción más valiosas dentro de las comunidades digitales, ya que permiten reconocer opiniones, percepciones y niveles de involucramiento de la audiencia frente al contenido publicado. En el sistema moda, esta métrica aporta información relevante para comprender la relación entre la marca y su comunidad digital.
 
     .cajon.color-acento-contenido.p-4.mb-5
-      p.mb-0 A continuación, se presentan algunos elementos clave relacionados con la interpretación estratégica de los comentarios en redes sociales.
+      p.mb-0 A continuación, se presentan algunos elementos clave relacionados con la interpretación estratégica de los comentarios en redes sociales:
     
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -247,8 +247,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Lectura estratégica de comentarios
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/24.svg", alt="La imagen presenta cuatro recuadros de colores organizados horizontalmente, cada uno representa una categoría de análisis de contenidos. El primer recuadro, Altos + positivos, indica que existe una alta conexión con la audiencia y recomienda potenciar ese contenido. El segundo, Altos + negativos, señala un alto riesgo reputacional y la necesidad de realizar una gestión inmediata para corregir errores. El tercero, Bajos + alto alcance, explica que el contenido tiene poco carácter conversacional y requiere ajustar el copy. El cuarto, Bajo general, indica una baja implicación de la audiencia y recomienda revisar la estrategia de contenidos. ")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/24-1.svg", alt="La imagen presenta cuatro recuadros de colores organizados horizontalmente, cada uno representa una categoría de análisis de contenidos. El primer recuadro, Altos + positivos, indica que existe una alta conexión con la audiencia y recomienda potenciar ese contenido. El segundo, Altos + negativos, señala un alto riesgo reputacional y la necesidad de realizar una gestión inmediata para corregir errores. El tercero, Bajos + alto alcance, explica que el contenido tiene poco carácter conversacional y requiere ajustar el copy. El cuarto, Bajo general, indica una baja implicación de la audiencia y recomienda revisar la estrategia de contenidos.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/24.svg", alt="La figura describe una guía para la lectura estratégica de comentarios en redes sociales mediante cuatro escenarios de análisis. Altos más positivos indican una alta conexión con la audiencia y la necesidad de potenciar el contenido; altos más negativos representan un alto riesgo reputacional que requiere acciones inmediatas; bajos más alto alcance reflejan un contenido con poca interacción, por lo que es necesario ajustar el mensaje; y bajos más generales señalan una baja interacción y alcance, lo que sugiere revisar la estrategia de comunicación.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/24-1.svg", alt="La figura describe una guía para la lectura estratégica de comentarios en redes sociales mediante cuatro escenarios de análisis. Altos más positivos indican una alta conexión con la audiencia y la necesidad de potenciar el contenido; altos más negativos representan un alto riesgo reputacional que requiere acciones inmediatas; bajos más alto alcance reflejan un contenido con poca interacción, por lo que es necesario ajustar el mensaje; y bajos más generales señalan una baja interacción y alcance, lo que sugiere revisar la estrategia de comunicación.")
         figcaption Nota. SENA, (2026).
 
     .row.justify-content-center.align-items-center.z-2.mb-5
@@ -282,7 +282,7 @@
         p(data-aos="fade-right") Las historias (<em>stories</em>) son formatos de contenido efímero que permanecen visibles por tiempo limitado y permiten una comunicación más espontánea y cercana. En el sistema moda, las historias se han convertido en una herramienta clave para mostrar el detrás de cámaras, lanzamientos rápidos y promociones flash, su naturaleza temporal genera sensación de urgencia y exclusividad, por ello, constituyen un formato de alto valor táctico.
     
         .cajon.color-acento-contenido.p-4
-          p.mb-0 A continuación, se presentan algunos elementos relacionados con el análisis estratégico de las historias en redes sociales.
+          p.mb-0 A continuación, se presentan algunos elementos relacionados con el análisis estratégico de las historias en redes sociales:
     
     .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
@@ -339,7 +339,7 @@
             p.ms-5.p.mb-0 <b>Conversación</b>: se utiliza para activar comunidad, validar intereses y generar relaciones más cercanas. En moda, es clave para recibir <em>feedback</em> sobre productos, tallas o preferencias de estilo. También nutre leads cualificados.
           div(titulo="Clics")
             p.ms-5 Número de veces que los usuarios hacen clic en enlaces, <em>stickers</em> de producto o llamados a la acción dentro de la historia. Indica intención activa del usuario.
-            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar CTAs y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el sistema moda, es fundamental para medir impacto de <em>drops</em>, promociones y lanzamientos.
+            p.mb-0.ms-5 <b>Conversión</b>: permite evaluar la efectividad comercial de la historia, optimizar las CTA y medir el tránsito hacia <em>e-commerce</em> o <em>landing pages</em>. En el sistema moda, es fundamental para medir impacto de <em>drops</em>, promociones y lanzamientos.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -434,7 +434,7 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-none.d-lg-flex(src="@/assets/curso/tema1/39.png").mx-auto
               .col-lg
-                p.mb-0 Significa que tiene un contenido relevante, por lo que hay que mantener estrategia.
+                p.mb-0 Significa que tiene un contenido relevante, por lo que hay que mantener la estrategia.
 
         div.position-relative
           h5.bg-color-30.text-white.py-2.px-3.d-inline.position-absolute.pst-pestana Alto volumen sin interacción
@@ -498,7 +498,7 @@
               img(src="@/assets/curso/tema1/48.png", data-aos="zoom-in")
           .col-lg-8
             .bg-color-2.p-4
-              p.mb-0 Los seguidores representan el número de usuarios que han decidido vincularse a la cuenta de una marca en redes sociales para recibir sus publicaciones. En el sistema moda, este indicador refleja el tamaño potencial de la audiencia propia y la capacidad de atracción de la marca, no obstante, un alto número de seguidores no garantiza impacto comercial si no existe interacción real, por los cual, la lectura estratégica de esta métrica debe ir más allá del volumen.
+              p.mb-0 Los seguidores representan el número de usuarios que han decidido vincularse a la cuenta de una marca en redes sociales para recibir sus publicaciones. En el sistema moda, este indicador refleja el tamaño potencial de la audiencia propia y la capacidad de atracción de la marca, no obstante, un alto número de seguidores no garantiza impacto comercial si no existe interacción real, por lo cual, la lectura estratégica de esta métrica debe ir más allá del volumen.
         .row.align-items-center.bg-color-3.p-4
           .col-lg-auto.mb-lg-0
             img.d-lg-flex.d-none(src="@/assets/curso/tema1/4.svg").mx-auto
@@ -666,7 +666,7 @@
           img(src="@/assets/curso/tema1/58.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .cajon.color-acento-contenido.p-4(data-aos="fade-right")
-          p.mb-0 En el sistema moda, la interpretación cruzada de indicadores permite optimizar creatividades, segmentaciones y presupuestos, las marcas que desarrollan cultura analítica reaccionan con mayor rapidez a los cambios del mercado digital, la estadística no reemplaza la creatividad, pero la orienta estratégicamente.
+          p.mb-0 En el sistema moda, la interpretación cruzada de indicadores permite optimizar creatividades, segmentaciones y presupuestos. Las marcas que desarrollan cultura analítica reaccionan con mayor rapidez a los cambios del mercado digital, la estadística no reemplaza la creatividad, pero la orienta estratégicamente.
     
     p La siguiente tabla reúne algunas métricas utilizadas para evaluar interacción, conversión y comportamiento de audiencia en redes sociales.
 
@@ -716,7 +716,7 @@
                 td Durante una semana, una marca pierde 120 seguidores tras publicar contenido excesivamente promocional.
                 td Audiencia
               tr.bg-color-white
-                td <b>Tasa de <em>click</em> en perfil</b>
+                td <b>Tasa de clic en perfil</b>
                 td Porcentaje de usuarios que visitan el perfil de la marca después de ver una publicación o anuncio. Indica interés por conocer más sobre la marca.
                 td Un <em>reel</em> de lanzamiento lleva a que 800 usuarios visiten el perfil de la marca de moda.
                 td Consideración
@@ -757,7 +757,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text La analítica de datos corresponde al proceso sistemático de recopilación, procesamiento e interpretación de la información generada por las interacciones digitales usando diferentes herramientas, en el sistema moda, esta práctica permite transformar métricas dispersas en conocimiento accionable para la toma de decisiones. Sin analítica estructurada, las marcas operan por intuición; con analítica, actúan con evidencia, por ello, la gestión basada en datos se ha convertido en un factor crítico de competitividad.
+        p.banner-text La analítica de datos corresponde al proceso sistemático de recopilación, procesamiento e interpretación de la información generada por las interacciones digitales usando diferentes herramientas. En el sistema moda, esta práctica permite transformar métricas dispersas en conocimiento accionable para la toma de decisiones. Sin analítica estructurada, las marcas operan por intuición; con analítica, actúan con evidencia, por ello, la gestión basada en datos se ha convertido en un factor crítico de competitividad.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.mb-3.mb-lg-0.order-lg-2
@@ -820,7 +820,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
-          span Ejemplo de plataformas para analítica WEB
+          span Ejemplo de plataformas para analítica web
         .tabla-a.color-secundario.mb-5.tbl
           table
             caption Nota. SENA, (2026).
@@ -833,7 +833,7 @@
             tbody
               tr.bg-color-white
                 td <b>Google Analytics</b>
-                td Permite analizar tráfico web, comportamiento de usuarios y conversiones
+                td Permite analizar tráfico web, comportamiento de usuarios y conversiones.
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://developers.google.com/analytics?hl=es-419" target="_blank")
                     .anexo__icono
@@ -844,7 +844,7 @@
                 td Sí
               tr.bg-color-8
                 td <b>Business Suite</b>
-                td Facilita el monitoreo de métricas en Facebook e Instagram
+                td Facilita el monitoreo de métricas en Facebook e Instagram.
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://www.facebook.com/business/tools/meta-business-suite/" target="_blank")
                     .anexo__icono
@@ -854,24 +854,24 @@
                 td Sí
               tr.bg-color-white
                 td <b>Hootsuite Analytics</b>
-                td Ofrece datos sobre interacciones y rendimiento de publicaciones
+                td Ofrece datos sobre interacciones y rendimiento de publicaciones.
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://www.hootsuite.com/es/platform/analytics" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
                       p <em>Social Media Analytics Tools</em> - Hootsuite Analytics
-                td No, pero se cuenta con periodo de prueba
+                td No, pero se cuenta con periodo de prueba.
               tr.bg-color-8
                 td <b>SEMrush</b>
-                td Ideal para el análisis de posicionamiento SEO y <em>marketing</em> digital
+                td Ideal para el análisis de posicionamiento SEO y <em>marketing</em> digital.
                 td 
                   a.anexo.mb-4.mb-lg-0(href="https://es.semrush.com/" target="_blank")
                     .anexo__icono
                       img(src="@/assets/template/icono-link.svg")
                     .anexo__texto
                       p Semrush, el <em>marketing online</em> puede ser fácil
-                td No, pero se cuenta con periodo de prueba
+                td No, pero se cuenta con periodo de prueba.
 
     .bloque-texto-g.color-secundario.bg-color-5.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -902,7 +902,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 ¿Qué es un <em>insight</em>? ¿Cómo encontrar <em>insights</em>?
-                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del canal de Socialmood, especializado en temas de social media y comunicación digital, donde nos brinda una explicación del significado de <em>insight</em> y cómo encontrarlos. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en la temática abordada, el cual corresponde a un video del canal de Socialmood, especializado en temas de social media y comunicación digital, donde nos brinda una explicación del significado de <em>insight</em> y cómo encontrarlos. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://youtu.be/_FS9hxSIDwY?si=9LJC9GO04BnFbqeY " target="_blank")
                     span Ir al video
@@ -1009,9 +1009,10 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
-          span Equilibrio estratégico de publicación en redes sociales 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/73.png", alt="Ilustración de una balanza que representa la importancia de mantener una frecuencia equilibrada de publicaciones en redes sociales. La imagen compara los efectos de publicar muy poco y publicar en exceso, destacando que un equilibrio favorece la visibilidad y la percepción de la marca.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/73-1.png", alt="Ilustración de una balanza que representa la importancia de mantener una frecuencia equilibrada de publicaciones en redes sociales. La imagen compara los efectos de publicar muy poco y publicar en exceso, destacando que un equilibrio favorece la visibilidad y la percepción de la marca.")
+          span Equilibrio estratégico de publicación en redes sociales
+        figure.figura-calidad.mb-2
+          img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/73.png", alt="Ilustración de una balanza que representa la importancia de mantener una frecuencia equilibrada de publicaciones en redes sociales. La imagen compara los efectos de publicar muy poco y publicar en exceso, destacando que un equilibrio favorece la visibilidad y la percepción de la marca.")
+          img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/73-1.png", alt="Ilustración de una balanza que representa la importancia de mantener una frecuencia equilibrada de publicaciones en redes sociales. La imagen compara los efectos de publicar muy poco y publicar en exceso, destacando que un equilibrio favorece la visibilidad y la percepción de la marca.")
         figcaption Nota. SENA, (2026).
     
     .row.mb-5.justify-content-center.align-items-center
@@ -1019,7 +1020,7 @@
         figure
           img(src="@/assets/curso/tema1/74.png", data-aos="zoom-in")
       .col-lg-8
-        p(data-aos="fade-right") Desde el enfoque técnico, la frecuencia óptima depende de la capacidad de producción de contenido, el comportamiento de la audiencia y el tipo de plataforma. Sus características incluyen regularidad, coherencia temática y equilibrio entre calidad y volumen, no existe una frecuencia universal; la clave está en la consistencia sostenible, hay que tener en cuenta que la sobre publicación sin valor puede deteriorar el <em>engagement</em>.
+        p(data-aos="fade-right") Desde el enfoque técnico, la frecuencia óptima depende de la capacidad de producción de contenido, el comportamiento de la audiencia y el tipo de plataforma. Sus características incluyen regularidad, coherencia temática y equilibrio entre calidad y volumen, no existe una frecuencia universal; la clave está en la consistencia sostenible, hay que tener en cuenta que la sobrepublicación sin valor puede deteriorar el <em>engagement</em>.
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 En el sistema moda, la planificación editorial mediante calendarios de contenido permite mantener ritmo sin sacrificar calidad, las marcas que publican con estrategia logran mayor recordación y estabilidad algorítmica. La frecuencia debe revisarse periódicamente según resultados analíticos, la constancia inteligente supera a la publicación impulsiva.
@@ -1036,8 +1037,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Riesgos y recomendaciones en la frecuencia de publicación 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/75.png", alt="Figura que presenta cuatro niveles de frecuencia de publicación en redes sociales: muy baja, óptima, muy alta e irregular. Para cada nivel se describen los riesgos asociados y una recomendación para mejorar la estrategia de contenidos. ")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/75-1.png", alt="Figura que presenta cuatro niveles de frecuencia de publicación en redes sociales: muy baja, óptima, muy alta e irregular. Para cada nivel se describen los riesgos asociados y una recomendación para mejorar la estrategia de contenidos. ")
+        figure.figura-calidad.mb-2
+          img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/75.png", alt="Figura que presenta cuatro niveles de frecuencia de publicación en redes sociales: muy baja, óptima, muy alta e irregular. Para cada nivel se describen los riesgos asociados y una recomendación para mejorar la estrategia de contenidos. ")
+          img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/75-1.png", alt="Figura que presenta cuatro niveles de frecuencia de publicación en redes sociales: muy baja, óptima, muy alta e irregular. Para cada nivel se describen los riesgos asociados y una recomendación para mejorar la estrategia de contenidos. ")
         figcaption Nota. SENA, (2026).
   
     .row.justify-content-center.align-items-center.z-2.mb-5
