@@ -237,7 +237,7 @@
                 th.bg-color-7 Impacto en moda
             tbody
               tr.bg-color-white
-                td <b>Nano<em>influencers</em></b>
+                td <em><b>Nanoinfluencers</b></em>
                 td Comunidades pequeñas y alta cercanía con la audiencia
                 td Credibilidad y recomendación auténtica
               tr.bg-color-8
