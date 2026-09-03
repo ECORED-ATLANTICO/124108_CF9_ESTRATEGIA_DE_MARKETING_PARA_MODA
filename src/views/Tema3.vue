@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Segmentación de mercado
+      h1 Segmentación del mercado
     
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -56,7 +56,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Segmentación de mercado
-                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, el cual explica qué es la segmentación del mercado y por qué es clave en estrategias comerciales, presenta criterios para dividir el mercado en grupos de clientes con características similares. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo, que le permitirá profundizar en la temática abordada. Corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA que explica qué es la segmentación del mercado y por qué es clave en las estrategias comerciales, además de presentar los criterios para dividir el mercado en grupos de clientes con características similares.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=DEFpEXL8ebM  " target="_blank")
                     span Ir al video
@@ -126,8 +126,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 8.
           span Variables de segmentación de mercado
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/12.svg", alt="Presenta las principales variables de segmentación de mercado: demográficas, geográficas, conductuales y psicográficas. Explica que la combinación de estas variables permite comprender mejor al público objetivo y diseñar estrategias de marketing más efectivas.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/12-1.svg", alt="Presenta las principales variables de segmentación de mercado: demográficas, geográficas, conductuales y psicográficas. Explica que la combinación de estas variables permite comprender mejor al público objetivo y diseñar estrategias de marketing más efectivas.")
+        figure.figura-calidad.mb-2
+          img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/12.svg", alt="Presenta las principales variables de segmentación de mercado: demográficas, geográficas, conductuales y psicográficas. Explica que la combinación de estas variables permite comprender mejor al público objetivo y diseñar estrategias de marketing más efectivas.")
+          img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/12-1.svg", alt="Presenta las principales variables de segmentación de mercado: demográficas, geográficas, conductuales y psicográficas. Explica que la combinación de estas variables permite comprender mejor al público objetivo y diseñar estrategias de marketing más efectivas.")
         figcaption Nota. SENA, (2026).
     
     .bg-color-9.tarjeta.p-4.mb-5
@@ -289,7 +290,7 @@
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/16.png").mx-auto
             .col-lg
               h5 ¿A qué segmentos vale la pena dirigirse?
-              p.mb-0 Matriz atractivo vs capacidad.
+              p.mb-0 Matriz atractivo vs. capacidad.
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-18.mb-5.p-4
           .row.align-items-center
@@ -326,8 +327,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 9.
           span Niveles de clientes en el sistema moda 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/20.png", alt="Figura que representa las etapas del ciclo de relación con los clientes: prospectos, clientes nuevos, clientes recurrentes y clientes leales o embajadores. Para cada etapa se indican las acciones de marketing recomendadas para fortalecer la relación con el cliente. ")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/21.png", alt="Figura que representa las etapas del ciclo de relación con los clientes: prospectos, clientes nuevos, clientes recurrentes y clientes leales o embajadores. Para cada etapa se indican las acciones de marketing recomendadas para fortalecer la relación con el cliente. ")
+        figure.figura-calidad.mb-2
+          img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema3/20.svg", alt="Figura que representa las etapas del ciclo de relación con los clientes: prospectos, clientes nuevos, clientes recurrentes y clientes leales o embajadores. Para cada etapa se indican las acciones de marketing recomendadas para fortalecer la relación con el cliente. ")
+          img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema3/21.svg", alt="Figura que representa las etapas del ciclo de relación con los clientes: prospectos, clientes nuevos, clientes recurrentes y clientes leales o embajadores. Para cada etapa se indican las acciones de marketing recomendadas para fortalecer la relación con el cliente. ")
         figcaption Nota. SENA, (2026).
     
     .cajon.color-acento-contenido.p-4.mb-5
@@ -443,7 +445,7 @@
         p.mb-0(data-aos="fade-right") El proceso de segmentación del mercado corresponde a la secuencia ordenada de etapas mediante las cuales una empresa identifica, analiza y selecciona sus segmentos objetivo, seguir un proceso estructurado evita decisiones intuitivas y mejora la coherencia estratégica. La segmentación efectiva no surge de una única acción, sino de un flujo metodológico continuo, por ello, la disciplina en el proceso determina la calidad del resultado.
     
     .bg-color-9.tarjeta.p-4.mb-5
-      p.mb-0 Generalmente, el proceso incluye cinco fases: análisis del mercado su objetivo es comprender el contexto, su resultado es la base estratégica; selección de variables su objetivo es definir criterios, su resultado es la precisión; identificación de segmentos, su objetivo es agrupar clientes, su resultado es calidad; evaluación de atractivo, su objetico es medir el atractivo para poder dar priorización; y selección del mercado objetivo, en donde se elige el target, para un mayor enfoque.
+      p.mb-0 Generalmente, el proceso incluye cinco fases: análisis del mercado su objetivo es comprender el contexto, su resultado es la base estratégica; selección de variables su objetivo es definir criterios, su resultado es la precisión; identificación de segmentos, su objetivo es agrupar clientes, su resultado es calidad; evaluación de atractivo, su objetivo es medir el atractivo para poder dar priorización; y selección del mercado objetivo, en donde se elige el target, para un mayor enfoque.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -513,7 +515,7 @@
               ul.lista-ul--color.ms-3
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
-                  p.mb-0 Tamaño del segmento (eje.: jóvenes compradores <em>online</em>).
+                  p.mb-0 Tamaño del segmento (ej.: jóvenes compradores <em>online</em>).
                 li.mb-1.d-flex
                   i.fas.fa-caret-right.fa-xl.mt-2
                   | Capacidad de compra. 

@@ -35,9 +35,10 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
-          span Diferencia entre métrica y KPI 
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/3.png", alt="Imagen que compara los conceptos de métrica y KPI en marketing digital. Explica que las métricas miden datos operativos, mientras que los KPI evalúan el cumplimiento de objetivos estratégicos del negocio mediante indicadores de desempeño.")
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/3-1.png", alt="Imagen que compara los conceptos de métrica y KPI en marketing digital. Explica que las métricas miden datos operativos, mientras que los KPI evalúan el cumplimiento de objetivos estratégicos del negocio mediante indicadores de desempeño.")
+          span Diferencia entre métrica y KPI
+        figure.figura-calidad.mb-2
+          img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/3.png", alt="Imagen que compara los conceptos de métrica y KPI en marketing digital. Explica que las métricas miden datos operativos, mientras que los KPI evalúan el cumplimiento de objetivos estratégicos del negocio mediante indicadores de desempeño.")
+          img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/3-1.png", alt="Imagen que compara los conceptos de métrica y KPI en marketing digital. Explica que las métricas miden datos operativos, mientras que los KPI evalúan el cumplimiento de objetivos estratégicos del negocio mediante indicadores de desempeño.")
         figcaption Nota. SENA, (2026).
     
     .bg-color-1.tarjeta.px-4.mb-5
@@ -83,7 +84,7 @@
             .col-lg
               p Define el propósito del indicador y establece qué aspecto del desempeño se desea evaluar. Permite alinear la medición con los objetivos estratégicos del negocio y orientar las decisiones de <em>marketing</em>.
               p <b>Ejemplo en moda</b>: una marca de moda busca incrementar las ventas <em>online</em> de su tienda digital, especialmente durante el lanzamiento de una nueva colección de temporada.
-          .row(titulo="Formula")
+          .row(titulo="Fórmula")
             .col-lg-auto.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema2/8.png").mx-auto
             .col-lg
@@ -149,7 +150,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Interpretación de indicadores de gestión (KPI).
-                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo por medio del cual podrá profundizar en temática abordada, el cual corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, el cual explica qué son los KPI (<em>Key Performance Indicators</em>) y su importancia en la gestión y evaluación de procesos, muestra cómo interpretar los indicadores para analizar resultados y tomar decisiones. 
+                  p.mb-0 Lo invitamos a revisar el siguiente recurso educativo para profundizar en la temática abordada. Este corresponde a un video del Ecosistema de Recursos Educativos Digitales SENA, en el que se explica qué son los KPI (#[i Key Performance Indicators]) y su importancia en la gestión y evaluación de procesos. Además, muestra cómo interpretar los indicadores para analizar resultados y apoyar la toma de decisiones.
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=YfJvHDuEKoQ  " target="_blank")
                     span Ir al video
@@ -178,9 +179,7 @@
     
         .cajon.color-acento-contenido.p-4
           p.mb-0 En términos funcionales, los KPI pueden aplicarse en control de campañas, optimización de contenido, gestión de inversión publicitaria y evaluación de desempeño comercial.
-    
-    p.mb-5 El siguiente caso presenta la aplicación de KPI en una estrategia de <em>marketing</em> digital desarrollada para una marca de moda.
-    
+
     .row.justify-content-center.align-items-center
       .col-lg-10(data-aos="fade-up")
         .tarjeta.color-primario.bg-color-10.p-3.mb-5
@@ -193,7 +192,7 @@
                   h3.mb-1 Caso aplicado: uso de KPI en una marca de moda digital
                   p.mb-0 El siguiente caso presenta la aplicación de KPI en una estrategia de <em>marketing</em> digital desarrollada para una marca de moda.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Caso_aplicado_uso_KPI_marca_moda_digital.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1_Caso_aplicado_uso_de_KPI_en_una_marca_de_moda_digital.pdf')" target="_blank")
                     span Ir al enlace
                     i.fas.fa-link
 
@@ -202,7 +201,7 @@
         .col-lg-auto.mb-lg-0
           img.d-none.d-lg-flex(src="@/assets/curso/tema2/12.png").mx-auto
         .col-lg
-          p.mb-0  <b><em>Insigh</em></b>. La empresa <b>Élite Moda Performance</b> utilizó su KPI de conversión para redistribuir presupuesto hacia las campañas con mejor rendimiento. Esta decisión incrementó sus ventas <em>online</em> en 33 % sin aumentar la inversión total.
+          p.mb-0  <b><em>Insight</em></b>. La empresa <b>Élite Moda Performance</b> utilizó su KPI de conversión para redistribuir presupuesto hacia las campañas con mejor rendimiento. Esta decisión incrementó sus ventas <em>online</em> en 33 % sin aumentar la inversión total.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.mb-lg-0
